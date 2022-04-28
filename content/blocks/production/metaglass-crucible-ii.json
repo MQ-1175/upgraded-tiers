@@ -1,0 +1,35 @@
+{	
+  "name": "Metaglass Crucible II",
+  "description": "Tier 3 Kiln. Also use use blast compound.",
+    "type": "GenericCrafter",
+	"drawer": {
+	"type": "DrawSmelter"
+	},
+	"size": 4,
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 30,
+	"craftTime": 60,
+	"craftEffect": "smeltsmoke",
+	"updateEffect": "none",
+	"consumes": {
+		"power": 8,
+		"items": {
+			"items": [
+               "sand/10",
+               "lead/10",
+               "blast-compound/1"
+			]
+		}
+	},
+	"requirements": [
+        "metaglass/175",
+        "titanium/250",
+        "silicon/250",
+        "surge-alloy/40",
+        "plastanium/80",
+	],
+	"category": "crafting",
+	"research": "metaglass-crucible",
+	"outputItem": "metaglass/15"
+}
