@@ -6,7 +6,7 @@
 	"type": "DrawSmelter",
         "flameColor": "FFC099",
 "flameRadius": 5,         
-"flameRadiusIn": 4,
+"flameRadiusIn": 3,
     "flameRadiusScl": 4,
     "flameRadiusMag": 2,
     "flameRadiusInMag": 1.7,
