@@ -5,7 +5,12 @@
 	"size": 4,
 "drawer": {
 	"type": "drawSmelter",
-        "flameColor": "ffef99"
+        "flameColor": "ffef99",
+        "flameRadius": 4.5,         
+"flameRadiusIn": 3.5,
+    "flameRadiusScl": 4,
+    "flameRadiusMag": 2,
+    "flameRadiusInMag": 1.7,
 },
 	"hasPower": true,
 	"hasItems": true,
