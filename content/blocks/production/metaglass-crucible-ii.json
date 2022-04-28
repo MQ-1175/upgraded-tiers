@@ -5,7 +5,8 @@
 	"drawer": {
 	"type": "DrawSmelter",
         "flameColor": "ffc099",
-         "flameRadiusIn": 6,
+"flameRadius": 6,         
+"flameRadiusIn": 6,
     "flameRadiusScl": 4,
     "flameRadiusMag": 2,
     "flameRadiusInMag": 1,
