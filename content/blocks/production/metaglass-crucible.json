@@ -27,7 +27,7 @@
         "plastanium/35",
         "titanium/150",
         "silicon/100",
-        "metaglass/80"
+        "metaglass/80",
 	],
 	"category": "crafting",
 	"research": "kiln",
