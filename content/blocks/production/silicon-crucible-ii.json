@@ -19,6 +19,7 @@
                "sand/10", 
                "blast-compound/2"            
  			]
+	}
 	},
 	"requirements": [
         "metaglass/200",
