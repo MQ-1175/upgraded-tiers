@@ -1,0 +1,33 @@
+{	
+  "name": "Multi Press II",
+  "description": "A tier 3 graphite press. Require Cryofluid as coolant",
+    "type": "GenericCrafter",
+	"size": 4,
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 30,
+	"craftTime": 60,
+	"craftEffect": "pulverizeMedium",
+	"updateEffect": "none",
+	"consumes": {
+		"power": 6,
+		"items": {
+			"items": [
+               "coal/10",             
+ 			]
+     "liquid": {
+			"liquid": "water",
+			"amount": 0.2
+		}
+		}
+	},
+	"requirements": [
+        "lead/250",
+        "graphite/150",
+        "titanium/200",
+        "silicon/75"
+	],
+	"category": "crafting",
+	"research": "multi-press",
+	"outputItem": "graphite/8"
+}
