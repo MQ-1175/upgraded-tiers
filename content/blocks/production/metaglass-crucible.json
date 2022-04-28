@@ -5,7 +5,12 @@
     "type": "GenericCrafter",
 	"drawer": {
 	"type": "DrawSmelter",
-       "flameColor": "ffc099"
+       "flameColor": "ffc099",
+      "flameRadius": 4,         
+     "flameRadiusIn": 3,
+    "flameRadiusScl": 4,
+    "flameRadiusMag": 2,
+    "flameRadiusInMag": 1.7,
 	},
 	"size": 4,
 	"hasPower": true,
