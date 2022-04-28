@@ -7,8 +7,8 @@
 	"hasItems": true,
 	"itemCapacity": 30,
 	"craftTime": 60,
-	"craftEffect": "pulverizeMedium",
-	"updateEffect": "none",
+	"craftEffect": "pulverize",
+	"updateEffect": "pulverizeSmall",
 	"consumes": {
 		"power": 6,
 		"items": {
