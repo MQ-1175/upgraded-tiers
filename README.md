@@ -1,3 +1,2 @@
-# MindustryJsonModTemplate
-
-a [template](https://github.com/12three7/MindustryJsonModTemplate/generate) for making mindustry json/hjson(/javascript??) mod. compatible with v6 & v7.
+# Mindustry Campaign Expansion Mod
+Mindustry mod which adds more blocks, currently starting with factories. More content coming soon. Use in v7
