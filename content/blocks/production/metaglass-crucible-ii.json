@@ -9,7 +9,7 @@
 "flameRadiusIn": 4,
     "flameRadiusScl": 4,
     "flameRadiusMag": 2,
-    "flameRadiusInMag": 1,
+    "flameRadiusInMag": 1.7,
 	},
 	"size": 4,
 	"hasPower": true,
