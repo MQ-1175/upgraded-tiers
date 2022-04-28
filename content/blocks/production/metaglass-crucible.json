@@ -1,7 +1,7 @@
 {	
 "name": "Metaglass Crucible ",
   "description": "An Advanced Kiln. Use for large metaglass production",
-   "details": "You will need these later, when more content release, maybe you will be able to use this when liquid related stuffs require many metaglass"
+   "details": "You will need these later, when more content release, maybe you will be able to use this when liquid related stuffs require many metaglass",
     "type": "GenericCrafter",
 	"drawer": {
 	"type": "DrawSmelter"
