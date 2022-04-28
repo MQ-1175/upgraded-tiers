@@ -1,0 +1,33 @@
+{	
+  "name": "Silicon Crucible II",
+  "description": "A tier 3 silicon smelter, use blast compound for mass production.",
+    "type": "GenericCrafter",
+	"size": 4,
+"drawer": {
+	"type": "drawSmelter",
+},
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 40,
+	"craftTime": 90,
+	"craftEffect": "smeltsmoke",
+	"consumes": {
+		"power": 8,
+		"items": {
+			"items": [
+               "coal/8",
+               "sand/10", 
+               "blast-compound/2"            
+ 			]
+	},
+	"requirements": [
+        "metaglass/200",
+        "titanium/250",
+        "silicon/200",
+        "surge-alloy/50",
+        "plastanium/100",
+	],
+	"category": "crafting",
+	"research": "silicon-crucible",
+	"outputItem": "silicon/20"
+}
