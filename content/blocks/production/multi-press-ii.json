@@ -15,10 +15,10 @@
 			"items": [
                "coal/10",             
  			]
-     "liquid": {
+		},
+                   "liquid": {
 			"liquid": "water",
 			"amount": 0.2
-		}
 		}
 	},
 	"requirements": [
