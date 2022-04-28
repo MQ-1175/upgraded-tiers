@@ -5,6 +5,7 @@
 	"size": 4,
 "drawer": {
 	"type": "drawSmelter",
+        "flameColor": "ffc099"
 },
 	"hasPower": true,
 	"hasItems": true,
