@@ -7,7 +7,7 @@
 	"type": "drawSmelter",
         "flameColor": "ffef99",
         "flameRadius": 4.5,         
-"flameRadiusIn": 3.5,
+"flameRadiusIn": 2.5,
     "flameRadiusScl": 4,
     "flameRadiusMag": 2,
     "flameRadiusInMag": 1.7,
