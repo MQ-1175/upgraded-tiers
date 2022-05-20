@@ -12,7 +12,7 @@
 },
 {
     "type": "DrawFlame",
-    "top": "silicon-crucible-ii-top"
+    "top": "-top"
 }
                ],
         "flameColor": "ffef99",
