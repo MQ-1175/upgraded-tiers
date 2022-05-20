@@ -5,7 +5,7 @@
 	"size": 4,
 
 "drawer": {
-    "type": "DrawFlame"
+    "type": "DrawMulti"
     "drawers": [
 {
     "type": "DrawDefault"
