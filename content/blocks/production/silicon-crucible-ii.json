@@ -7,9 +7,13 @@
 "drawer": {
     "type": "DrawFlame"
     "drawers": [
-        {
-          "top":"-top"
-        }
+{
+    "type": "DrawDefault"
+},
+{
+    "type": "DrawFlame"
+    "top": "-top"
+}
     ],
         "flameColor": "ffef99",
         "flameRadius": 4.5,         
