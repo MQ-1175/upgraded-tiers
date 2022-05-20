@@ -8,8 +8,8 @@
     "type": "DrawMulti"
     "drawers": [
         {
-            "-top"
-        },
+          "DrawFlame":"-top"
+        }
     ]
 
         "flameColor": "ffef99",
