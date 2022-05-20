@@ -2,15 +2,21 @@
   "name": "Metaglass Crucible II",
   "description": "Tier 3 Kiln. Also use use blast compound.",
     "type": "GenericCrafter",
-	"drawer": {
-	"type": "DrawSmelter",
-        "flameColor": "FFC099",
-"flameRadius": 5,         
-"flameRadiusIn": 3,
+"drawer": {
+    "type": "DrawMulti"
+    "drawers": [
+   {
+    "type": "DrawDefault"
+   },
+   {
+    "type": "DrawFlame",
+    "flameRadius": 7.5,         
+    "flameRadiusIn": 8,
     "flameRadiusScl": 4,
     "flameRadiusMag": 2,
     "flameRadiusInMag": 1.7,
 	},
+              ],
 	"size": 4,
 	"hasPower": true,
 	"hasItems": true,
