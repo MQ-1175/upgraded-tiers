@@ -14,8 +14,8 @@
     "type": "DrawFlame"
 },
 {
-    "type": "DrawLegion",
-    "top": "-top"
+    "type": "DrawRegion",
+    "tregion": "silicon-crucible-ii-top"
 }
                ],
         "flameColor": "ffef99",
