@@ -13,8 +13,7 @@
 {
     "type": "DrawFlame"
     "top": "-top"
-}
-    ],
+},
         "flameColor": "ffef99",
         "flameRadius": 4.5,         
         "flameRadiusIn": 2.5,
