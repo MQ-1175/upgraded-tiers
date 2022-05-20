@@ -7,7 +7,9 @@
 "drawer": {
     "type": "DrawMulti"
     "drawers": [
-
+   {
+    "type": "DrawDefault"
+   },
    {
     "type": "DrawFlame",
     "flameColor": "ffef99",
