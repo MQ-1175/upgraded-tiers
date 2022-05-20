@@ -12,10 +12,6 @@
 },
 {
     "type": "DrawFlame"
-},
-{
-    "type": "DrawRegion",
-    "top": "silicon-crucible-ii-top"
 }
                ],
         "flameColor": "ffef99",
