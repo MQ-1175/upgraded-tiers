@@ -11,10 +11,10 @@
     "type": "DrawDefault"
 },
 {
-    "type": "DrawFlame"
+    "type": "DrawFlame",
+    "color": "ffef99"
 }
                ],
-        "flameColor": "ffef99",
         "flameRadius": 4.5,         
         "flameRadiusIn": 2.5,
         "flameRadiusScl": 4,
