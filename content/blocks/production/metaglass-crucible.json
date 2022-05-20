@@ -2,16 +2,24 @@
 "name": "Metaglass Crucible ",
   "description": "An Advanced Kiln. Use for large metaglass production",
    "details": "You will need these later, when more content release, maybe you will be able to use this when liquid related stuffs require many metaglass",
-    "type": "GenericCrafter",
-	"drawer": {
-	"type": "DrawSmelter",
-       "flameColor": "ffc099",
-      "flameRadius": 4,         
+"drawer": {
+    "type": "DrawMulti"
+    "drawers": [
+   {
+    "type": "DrawDefault"
+   },
+   {
+    "type": "DrawFlame",
+     "flameColor": "ffc099",
+     "flameRadius": 4,         
      "flameRadiusIn": 2,
     "flameRadiusScl": 4,
     "flameRadiusMag": 2,
     "flameRadiusInMag": 1.7,
-	},
+   }
+               ]
+
+},
 	"size": 3,
 	"hasPower": true,
 	"hasItems": true,
