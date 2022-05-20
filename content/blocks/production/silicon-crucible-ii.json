@@ -4,7 +4,7 @@
     "type": "GenericCrafter",
 	"size": 4,
 "drawer": {
-	"type": "drawSmelter",
+	"type": "drawFlame",
         "flameColor": "ffef99",
         "flameRadius": 4.5,         
 "flameRadiusIn": 2.5,
