@@ -5,13 +5,10 @@
 	"size": 4,
 
 "drawer": {
-    "type": "DrawMulti"
+    "type": "DrawFlame"
     "drawers": [
         {
           "DrawRegion":"-top"
-        },
-	{
-          "DrawDefault"
         },
     ],
         "flameColor": "ffef99",
