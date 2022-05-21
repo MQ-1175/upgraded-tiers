@@ -3,22 +3,25 @@
   "description": "A tier 3 silicon smelter, use blast compound for mass production.",
     "type": "GenericCrafter",
 	"size": 4,
+
 "drawer": {
-    "type": "DrawMulti",
-    "drawers": [	
-     "DrawDefault",
-     "DrawFlame"
+    "type": "DrawMulti"
+    "drawers": [
+   {
+    "type": "DrawDefault"
+   },
+   {
+    "type": "DrawFlame",
+    "flameColor": "ffef99",
+    "flameRadius": 4.5,         
+    "flameRadiusIn": 2.5,
+    "flameRadiusScl": 4,  
+    "flameRadiusMag": 2,
+    "flameRadiusInMag": 1.7
+   }
                ]
-          },
 
-                   "flameColor": "ffef99",
-                   "flameRadius": 4.5,         
-                   "flameRadiusIn": 2.5,
-                   "flameRadiusScl": 4,  
-                   "flameRadiusMag": 2,
-                   "flameRadiusInMag": 1.7
-
-
+},
 	"hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 40,
