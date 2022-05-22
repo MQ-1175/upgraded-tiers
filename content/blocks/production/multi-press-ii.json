@@ -6,7 +6,7 @@
 	"hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 30,
-	"craftTime": 60,
+	"craftTime": 40,
 	"craftEffect": "pulverize",
 	"updateEffect": "pulverizeSmall",
 	"consumes": {
@@ -25,7 +25,9 @@
         "lead/250",
         "graphite/150",
         "titanium/200",
-        "silicon/100"
+        "silicon/100",
+        "surge-alloy/20",
+        "plastanium/50"
 	],
 	"category": "crafting",
 	"research": "multi-press",
