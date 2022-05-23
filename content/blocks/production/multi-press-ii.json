@@ -18,7 +18,7 @@
 		},
                    "liquid": {
 			"liquid": "cryofluid",
-			"amount": 0.4
+			"amount": 0.3
 		}
 	},
 	"requirements": [
