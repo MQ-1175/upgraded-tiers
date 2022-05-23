@@ -6,14 +6,14 @@
 	"hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 30,
-	"craftTime": 30,
+	"craftTime": 90,
 	"craftEffect": "pulverize",
 	"updateEffect": "pulverizeSmall",
 	"consumes": {
 		"power": 6,
 		"items": {
 			"items": [
-               "coal/10",             
+               "coal/12",             
  			]
 		},
                    "liquid": {
@@ -26,10 +26,10 @@
         "graphite/150",
         "titanium/200",
         "silicon/100",
-        "surge-alloy/20",
-        "plastanium/50"
+        "surge-alloy/50",
+        "plastanium/70"
 	],
 	"category": "crafting",
 	"research": "multi-press",
-	"outputItem": "graphite/8"
+	"outputItem": "graphite/20"
 }
