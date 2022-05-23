@@ -31,7 +31,7 @@
 			"items": [
                "sand/10",
                "lead/10",
-               "blast-compound/3"
+               "blast-compound/5"
 			]
 		}
 	},
@@ -39,10 +39,10 @@
         "metaglass/175",
         "titanium/250",
         "silicon/250",
-        "surge-alloy/40",
+        "surge-alloy/50",
         "plastanium/80",
 	],
 	"category": "crafting",
 	"research": "metaglass-crucible",
-	"outputItem": "metaglass/15"
+	"outputItem": "metaglass/25"
 }
