@@ -25,15 +25,15 @@
 	"hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 40,
-	"craftTime": 90,
+	"craftTime": 40,
 	"craftEffect": "smeltsmoke",
 	"consumes": {
 		"power": 8,
 		"items": {
 			"items": [
-                "coal/8",
-                "sand/10", 
-                "blast-compound/5"            
+                "coal/10",
+                "sand/15", 
+                "blast-compound/4"            
  			]
 	}
 	},
@@ -41,7 +41,7 @@
         "metaglass/200",
         "titanium/175",
         "silicon/200",
-        "surge-alloy/50",
+        "surge-alloy/60",
         "plastanium/100",
 	],
 	"category": "crafting",
