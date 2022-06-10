@@ -6,7 +6,7 @@
 	"hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 30,
-	"craftTime": 90,
+	"craftTime": 60,
 	"craftEffect": "pulverize",
 	"updateEffect": "pulverizeSmall",
 	"consumes": {
@@ -31,5 +31,5 @@
 	],
 	"category": "crafting",
 	"research": "multi-press",
-	"outputItem": "graphite/20"
+	"outputItem": "graphite/15"
 }
