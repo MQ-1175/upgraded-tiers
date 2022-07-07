@@ -22,7 +22,7 @@
 	"hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 30,
-	"craftTime": 60,
+	"craftTime": 40,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
 	"consumes": {
@@ -44,5 +44,5 @@
 	],
 	"category": "crafting",
 	"research": "metaglass-crucible",
-	"outputItem": "metaglass/25"
+	"outputItem": "metaglass/15"
 }
