@@ -1,5 +1,5 @@
 {	
-  "name": "Multi Press II",
+  "name": "Mass Graphite Press",
   "description": "A tier 3 graphite press. Require Cryofluid as coolant.",
     "type": "GenericCrafter",
 	"size": 4,
