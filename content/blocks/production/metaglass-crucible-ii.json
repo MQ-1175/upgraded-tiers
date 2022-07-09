@@ -1,7 +1,8 @@
 {	
   "name": "Metaglass Crucible II",
   "description": "Tier 3 Kiln. Also use use blast compound.",
-    "type": "GenericCrafter",
+  "type": "AttributeCrafter",
+  "boostScale": 0.15,
 "drawer": {
     "type": "DrawMulti"
     "drawers": [
