@@ -1,6 +1,6 @@
 {	
-  "name": "Silicon Crucible II",
-  "description": "A tier 3 silicon smelter, use blast compound for mass production.",
+  "name": "Large Silicon Crucible",
+  "description": "A tier 3 silicon smelter, use blast compound for high efficiency.",
     "type": "GenericCrafter",
 	"size": 4,
 
