@@ -3,7 +3,7 @@
   "description": "A tier 3 silicon smelter, use blast compound for high efficiency.",
   "type": "AttributeCrafter",
   "size": 4,
-  "boostScale": 0.3,
+  "boostScale": 0.15,
 "drawer": {
     "type": "DrawMulti"
     "drawers": [
