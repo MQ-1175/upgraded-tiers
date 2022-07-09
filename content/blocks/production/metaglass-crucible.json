@@ -2,7 +2,8 @@
 "name": "Metaglass Crucible ",
 "description": "An Advanced Kiln. Use for large metaglass production",
 "details": "Dagger. Dagger we need to cook methaglass for Flarogus Fring",
-"type": "GenericCrafter",
+"type": "AttributeCrafter",
+"boostScale": 0.15,
 "drawer": {
     "type": "DrawMulti"
     "drawers": [
