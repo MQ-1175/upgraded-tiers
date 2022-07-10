@@ -1,0 +1,45 @@
+{	
+"name": "Advanced Compressor",
+"description": "A tier 2 plastanium compressor. Require additional spores for production",
+"type": "GenericCrafter",
+"size": 3,
+"drawer": {
+    "type": "DrawMulti"
+    "drawers": [
+   {
+    "type": "DrawDefault"
+   },
+   {
+    "type": "DrawFade",
+   }	
+               ]
+          },
+"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 30,
+	"craftTime": 120,
+	"craftEffect": "formsmoke",
+	"updateEffect": "plasticburn",
+	"consumes": {
+		"power": 6,
+		"items": {
+			"items": [
+               "titanium/9",
+               "spore/6"
+			],
+       "liquid": {
+			"liquid": "oil",
+			"amount": 0.5
+		}
+	},
+	"requirements": [
+        "lead/200",
+        "graphite/150",
+        "titanium/250",
+        "silicon/300",
+        "plastanium/120"
+	],
+	"category": "crafting",
+	"research": "plastanium-compressor",
+	"outputItem": "plastanium/8"
+}
