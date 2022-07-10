@@ -27,7 +27,8 @@
                "titanium/15",
                "spore/10",
                "lead/12",
-			],
+			]
+		},
        "liquid": {
 			"liquid": "oil",
 			"amount": 1.5
