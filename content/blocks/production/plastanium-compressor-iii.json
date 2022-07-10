@@ -1,6 +1,6 @@
 {	
 "name": "Large Plastanium Press",
-"description": "Tier 3 plastanium compressor. Extra leads are needed",
+"description": "Tier 3 plastanium compressor. Extra metal like leads are needed",
 "type": "GenericCrafter",
 "size": 4,
 "drawer": {
@@ -17,7 +17,7 @@
 "hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 45,
-	"craftTime": 200,
+	"craftTime": 360,
 	"craftEffect": "formsmoke",
 	"updateEffect": "plasticburn",
 	"consumes": {
