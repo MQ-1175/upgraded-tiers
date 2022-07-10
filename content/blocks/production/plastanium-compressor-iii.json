@@ -21,7 +21,7 @@
 	"craftEffect": "formsmoke",
 	"updateEffect": "plasticburn",
 	"consumes": {
-		"power": 6,
+		"power": 9,
 		"items": {
 			"items": [
                "titanium/15",
@@ -31,7 +31,7 @@
 		},
        "liquid": {
 			"liquid": "oil",
-			"amount": 1.5
+			"amount": 1.2
 		}
 	},
 	"requirements": [
