@@ -26,7 +26,8 @@
 			"items": [
                "titanium/9",
                "spore/6"
-			],
+			]
+		},
        "liquid": {
 			"liquid": "oil",
 			"amount": 0.5
