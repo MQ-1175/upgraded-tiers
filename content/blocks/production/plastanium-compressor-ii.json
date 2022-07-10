@@ -36,9 +36,9 @@
 	"requirements": [
         "lead/200",
         "graphite/150",
-        "titanium/250",
+        "titanium/230",
         "silicon/300",
-        "plastanium/120"
+        "plastanium/100"
 	],
 	"category": "crafting",
 	"research": "plastanium-compressor",
