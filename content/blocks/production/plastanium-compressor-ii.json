@@ -10,7 +10,7 @@
     "type": "DrawDefault"
    },
    {
-    "type": "DrawFade"
+    "type": "drawFade"
    }	
                ]
           },
