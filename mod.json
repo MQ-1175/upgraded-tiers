@@ -5,5 +5,5 @@
 "description": "Adds higher tiers of blocks, currently starting with factories. More content coming soon."
 "version": 1.2
 "minGameVersion": 136
-"hideBrowser": true
+"hideBrowser": false
 }
