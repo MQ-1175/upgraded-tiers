@@ -22,7 +22,7 @@
 	"hasItems": true,
 	"itemCapacity": 30,
         "liquidCapacity": 30
-	"craftTime": 240,
+	"craftTime": 200,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
 	"consumes": {
@@ -35,7 +35,7 @@
 		},
        "liquid": {
 			"liquid": "cryofluid",
-			"amount": 0.4
+			"amount": 0.2
 		}
 	},
 	"requirements": [
