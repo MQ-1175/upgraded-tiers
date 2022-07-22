@@ -18,5 +18,4 @@ Mindustry mod that extends your tech tree with higher tiers of blocks.
 
 ‎
 
-"OMG WHY BIGGER BLOCKS, CAN'T YOU THINK OF ANYTHING ELSE!?!?!" VINEBOOM*
-"3X3 KILN?!? HOW MANY TIME HAVE I SEEN THIS, THIS IS UNORIGINAL AND OVERUSED" VINEBOOM*
+Note: The mod isn't intended to be or "unique" or anything like that.This is my first attempt in modding as well as spriting. Might make something different
