@@ -7,15 +7,15 @@
     "type": "DrawMulti"
     "drawers": [
    {
-    "type": "DrawDefault"
+    "type": "drawRegion",
+    "suffix": "-bottom"    
    },
    {
     "type": "DrawWeave"
    },
    {
-            "type": "drawRegion"
-            "suffix": "-bottom"
-        }
+   "type": "DrawDefault"
+   }
                ]
           },
 "hasPower": true,
