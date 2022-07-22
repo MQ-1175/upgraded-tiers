@@ -1,0 +1,54 @@
+{	
+"name": "Huge phase Weaver",
+"description": "Tier 3 phase weaver. Name is still temporary",
+"type": "GenericCrafter",
+"size": 4,
+"drawer": {
+    "type": "DrawMulti"
+    "drawers": [
+   {
+    "type": "DrawDefault"
+   },
+   {
+    "type": "DrawWeave"
+   },
+   {
+            "type": "drawRegion"
+            "suffix": "-bottom"
+        }
+               ]
+          },
+"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 40,
+  "liquidCapacity": 40,
+	"craftTime": 600,
+	"craftEffect": "smeltsmoke",
+	"updateEffect": "none",
+	"consumes": {
+		"power": 8,
+		"items": {
+			"items": [
+               "sand/30",
+               "thorium/20",
+               "silicon/15
+			]
+		},
+       "liquid": {
+			"liquid": "cryofluid",
+			"amount": 0.6
+		}
+	},
+	"requirements": [
+     "silicon/4000",
+    "titanium/400",
+    "lead/450",
+    "plastanium/250",
+    "thorium/500",
+    "phase-fabric/200",
+     "surge-alloy/150"
+	],
+	"category": "crafting",
+	"research": "phase-weaver-ii",
+	"outputItem": "phase-fabric/10"
+}
