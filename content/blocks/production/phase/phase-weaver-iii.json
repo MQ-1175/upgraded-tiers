@@ -25,6 +25,8 @@
 	"craftTime": 300,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
+            "ambientSound": "techloop",
+    "ambientSoundVolume": 0.04,
 	"consumes": {
 		"power": 8,
 		"items": {
