@@ -28,7 +28,7 @@
             "ambientSound": "techloop",
     "ambientSoundVolume": 0.04,
 	"consumes": {
-		"power": 8,
+		"power": 10,
 		"items": {
 			"items": [
                "sand/25",
