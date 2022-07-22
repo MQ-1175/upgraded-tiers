@@ -40,7 +40,7 @@
 		}
 	},
 	"requirements": [
-     "silicon/4000",
+     "silicon/350",
     "titanium/400",
     "lead/450",
     "plastanium/250",
