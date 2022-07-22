@@ -22,7 +22,7 @@
 	"hasItems": true,
 	"itemCapacity": 40,
   "liquidCapacity": 40,
-	"craftTime": 360,
+	"craftTime": 300,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
 	"consumes": {
@@ -50,5 +50,5 @@
 	],
 	"category": "crafting",
 	"research": "phase-weaver-ii",
-	"outputItem": "phase-fabric/10"
+	"outputItem": "phase-fabric/12"
 }
