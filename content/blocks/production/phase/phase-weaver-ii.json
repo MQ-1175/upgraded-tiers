@@ -11,12 +11,17 @@
    },
    {
     "type": "DrawWeave"
-   }	
+   },
+   {
+    "type": "drawRegion"
+    "suffix": "-bottom"
+   }
                ]
           },
 "hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 30,
+        "liquidCapacity": 30
 	"craftTime": 240,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
