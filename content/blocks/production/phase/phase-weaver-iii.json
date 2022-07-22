@@ -22,21 +22,21 @@
 	"hasItems": true,
 	"itemCapacity": 40,
   "liquidCapacity": 40,
-	"craftTime": 600,
+	"craftTime": 360,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
 	"consumes": {
 		"power": 8,
 		"items": {
 			"items": [
-               "sand/30",
+               "sand/25",
                "thorium/20",
                "silicon/15"
 			]
 		},
        "liquid": {
 			"liquid": "cryofluid",
-			"amount": 0.6
+			"amount": 0.4
 		}
 	},
 	"requirements": [
