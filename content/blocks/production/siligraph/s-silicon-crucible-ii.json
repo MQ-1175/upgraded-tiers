@@ -16,7 +16,9 @@
     "flameRadius": 4.5,         
     "flameRadiusIn": 2.5,
     "flameRadiusScl": 4,  
-    "flameRadiusMag": 2,
+    "flameRadiusMag": 2,    
+"rotateSpeed": -4,
+"spinSprite": true
     "flameRadiusInMag": 1.7
    }
                ]
