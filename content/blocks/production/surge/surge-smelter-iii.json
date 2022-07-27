@@ -9,10 +9,11 @@
    },
   {
     "type": "drawPistons"
-     "lenOffset": 0,
+     "lenOffset": -10,
     "sinScl": 2.5,
-    "sinMag": 4,
-    "sides":4
+    "sinMag": -4,
+    "sides":4,
+   "sideOffset": 1.5
    },
    {
     "type": "DrawFlame",
