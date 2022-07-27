@@ -59,6 +59,6 @@
     "phase-fabric/450"
 	],
 	"category": "crafting",
-	"research": "surge-smelter",
+	"research": "surge-smelter-ii",
 	"outputItem": "surge-alloy/25"
 }
