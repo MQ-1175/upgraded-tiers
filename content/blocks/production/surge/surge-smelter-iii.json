@@ -11,8 +11,8 @@
     "type": "drawPistons"
      "lenOffset": -2,
     "sinScl": 2.5,
-    "sinMag": -4,
-    "sides":4,
+    "sinMag": -3,
+    "sides": 8,
    "sideOffset": 1.5
    },
    {
