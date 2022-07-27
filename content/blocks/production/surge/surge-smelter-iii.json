@@ -1,4 +1,6 @@
 {	
+"name": "Large Surge Crucible",
+"description": "Tier 3 surge smetler. Yes it use extra blast compound and coolant",
 "type": "GenericCrafter",
 "size": 5,
 "drawer": {
