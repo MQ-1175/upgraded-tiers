@@ -39,11 +39,11 @@
 		"power": 15,
 		"items": {
 			"items": [
-               "silicon/10",
-               "titanium/9",
-               "copper/12",
-               "lead/12",
-               "blast-compound/5"  
+               "silicon/12",
+               "titanium/10",
+               "copper/15",
+               "lead/15",
+               "blast-compound/4"  
 			]
 		},
        "liquid": {
