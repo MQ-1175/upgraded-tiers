@@ -5,57 +5,58 @@
     "type": "DrawMulti"
     "drawers": [
    {
-   "type": "DrawDefault"
+    "type": "DrawDefault"
    },
   {
     "type": "drawPistons"
-     "lenOffset": -2,
-    "sinScl": 2.5,
-    "sinMag": -1,
+    "lenOffset": -2,
+    "sinScl": 3,
+    "sinMag": -1.5,
     "sides": 8,
-   "sideOffset": 1.5
+    "sideOffset": 1.5
    },
    {
     "type": "DrawFlame",
-    "flameRadius": 4.5,         
-    "flameRadiusIn": 2.5,
+    "flameRadius": 4.6,         
+    "flameRadiusIn": 2.6,
     "flameRadiusScl": 4,  
     "flameRadiusMag": 2,    
-    "flameRadiusInMag": 1.7
+    "flameRadiusInMag": 1.6
    }
                ]
           },
-"hasPower": true,
+        "hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 30,
         "liquidCapacity": 30
-	"craftTime": 200,
+	"craftTime": 300,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
-    "ambientSound": "techloop",
-    "ambientSoundVolume": 0.03,
 	"consumes": {
-		"power": 8,
+		"power": 15,
 		"items": {
 			"items": [
-               "sand/18",
-               "thorium/10"
+               "silicon/11",
+               "titanium/10",
+               "copper/15",
+               "lead/15",
+               "blast-compound/5"  
 			]
 		},
        "liquid": {
 			"liquid": "cryofluid",
-			"amount": 0.2
+			"amount": 0.4
 		}
 	},
 	"requirements": [
-     "silicon/250",
-    "titanium/250",
-    "lead/300",
-    "plastanium/150",
+     "silicon/400",
+    "titanium/5000",
+    "lead/600",
+    "plastanium/250",
     "thorium/300",
-    "phase-fabric/150"
+    "phase-fabric/450"
 	],
 	"category": "crafting",
-	"research": "phase-weaver",
-	"outputItem": "phase-fabric/4"
+	"research": "surge-smelter",
+	"outputItem": "surge-alloy/20"
 }
