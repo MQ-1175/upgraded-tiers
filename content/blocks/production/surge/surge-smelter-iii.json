@@ -10,8 +10,8 @@
   {
     "type": "drawPistons"
     "lenOffset": -2,
-    "sinScl": 3,
-    "sinMag": -1.5,
+    "sinScl": 4.5,
+    "sinMag": -2,
     "sides": 8,
     "sideOffset": 1.5
    },
@@ -29,7 +29,7 @@
 	"hasItems": true,
 	"itemCapacity": 50,
         "liquidCapacity": 40,
-	"craftTime": 180,
+	"craftTime": 360,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
 	"consumes": {
