@@ -27,9 +27,9 @@
           },
         "hasPower": true,
 	"hasItems": true,
-	"itemCapacity": 30,
-        "liquidCapacity": 30
-	"craftTime": 300,
+	"itemCapacity": 50,
+        "liquidCapacity": 40,
+	"craftTime": 180,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
 	"consumes": {
@@ -58,5 +58,5 @@
 	],
 	"category": "crafting",
 	"research": "surge-smelter",
-	"outputItem": "surge-alloy/20"
+	"outputItem": "surge-alloy/25"
 }
