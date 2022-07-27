@@ -32,17 +32,17 @@
 	"hasItems": true,
 	"itemCapacity": 50,
         "liquidCapacity": 40,
-	"craftTime": 420,
+	"craftTime": 240,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
 	"consumes": {
 		"power": 15,
 		"items": {
 			"items": [
-               "silicon/11",
-               "titanium/10",
-               "copper/15",
-               "lead/15",
+               "silicon/10",
+               "titanium/9",
+               "copper/12",
+               "lead/12",
                "blast-compound/5"  
 			]
 		},
@@ -62,5 +62,5 @@
 	],
 	"category": "crafting",
 	"research": "surge-smelter-ii",
-	"outputItem": "surge-alloy/25"
+	"outputItem": "surge-alloy/16"
 }
