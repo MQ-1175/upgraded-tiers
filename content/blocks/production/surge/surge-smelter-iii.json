@@ -39,11 +39,11 @@
 		"power": 15,
 		"items": {
 			"items": [
-               "silicon/12",
-               "titanium/10",
-               "copper/15",
-               "lead/15",
-               "blast-compound/4"  
+               "silicon/14",
+               "titanium/12",
+               "copper/16",
+               "lead/16",
+               "blast-compound/5"  
 			]
 		},
        "liquid": {
@@ -62,5 +62,5 @@
 	],
 	"category": "crafting",
 	"research": "surge-smelter-ii",
-	"outputItem": "surge-alloy/18"
+	"outputItem": "surge-alloy/20"
 }
