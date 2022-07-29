@@ -1,6 +1,4 @@
 {	
-  "name": "Large Metaglass Furnace",
-  "description": "Tier 3 kiln. Also use use blast compound.",
   "type": "AttributeCrafter",
   "boostScale": 0.15,
 "drawer": {
