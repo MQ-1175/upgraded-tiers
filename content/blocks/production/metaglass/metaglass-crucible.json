@@ -1,6 +1,4 @@
 {	
-"name": "Metaglass Crucible",
-"description": "An Advanced Kiln. Use for large metaglass production",
 "type": "AttributeCrafter",
 "boostScale": 0.15,
 "drawer": {
