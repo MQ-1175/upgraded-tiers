@@ -8,7 +8,8 @@
     "type": "DrawMulti"
     "drawers": [
    {
-    "type": "DrawDefault"
+    "type": "drawRegion",
+    "suffix": "-bottom"    
    },
   {
     "type": "drawPistons"
@@ -17,6 +18,9 @@
     "sinMag": -3,
     "sides": 8,
     "sideOffset": 1.5
+   },
+   {
+   "type": "DrawDefault"
    },
    {
     "type": "DrawFlame",
