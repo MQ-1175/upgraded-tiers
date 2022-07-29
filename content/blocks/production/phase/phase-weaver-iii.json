@@ -1,6 +1,4 @@
 {	
-"name": "Large Phase Weaver",
-"description": "Tier 3 phase weaver. Name is still temporary",
 "type": "GenericCrafter",
 "size": 4,
 "drawer": {
