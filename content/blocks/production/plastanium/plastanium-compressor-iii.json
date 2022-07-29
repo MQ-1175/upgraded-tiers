@@ -1,6 +1,4 @@
 {	
-"name": "Large Plastanium Press",
-"description": "Tier 3 plastanium compressor. Extra metal like leads are needed",
 "type": "GenericCrafter",
 "size": 4,
 "drawer": {
