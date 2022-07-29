@@ -10,12 +10,6 @@
    {
     "type": "DrawDefault"
    },
-    {
-    "type": "DrawGlowRegion",
-    "alpha": 0.7
-    "glowScale": 4
-    "color": "f3e979"
-   },
    {
     "type": "DrawFlame",
     "flameColor": "ffef99",
