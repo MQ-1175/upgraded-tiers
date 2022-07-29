@@ -1,6 +1,5 @@
 {	
-"name": "Surge Crucible",
-"description": "Tier 2 surge smetler.",
+
 "type": "AttributeCrafter",
 "boostScale": 0.1,
 "size": 4,
