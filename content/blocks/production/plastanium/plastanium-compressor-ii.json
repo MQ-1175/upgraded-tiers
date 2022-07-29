@@ -1,6 +1,4 @@
 {	
-"name": "Advanced Compressor",
-"description": "A tier 2 plastanium compressor. Require additional spores for production",
 "type": "GenericCrafter",
 "size": 3,
 "drawer": {
