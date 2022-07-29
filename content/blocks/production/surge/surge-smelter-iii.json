@@ -24,8 +24,8 @@
    },
     {
     "type": "DrawGlowRegion",
-    "alpha": 0.5
-    "glowScale": 4
+    "alpha": 0.65
+    "glowScale": 6
     "color": "f3e979"
    },
    {
