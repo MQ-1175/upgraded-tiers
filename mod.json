@@ -1,10 +1,10 @@
 {
 "name": "extension"
-"displayName": "Vanilla Extension"
+"displayName": "More Structures"
 "author": "M.Q."
-"subtitle": "v1.3"
+"subtitle": "v1.1"
 "description": "Adds higher tiers of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
-"version": 1.3
+"version": 1.1
 "minGameVersion": 136
 "hideBrowser": true
 }
