@@ -1,4 +1,4 @@
-# Campaign Enhancement Mod
+# More structures
 Mindustry mod that extends your tech tree with higher tiers of blocks.
 
 
