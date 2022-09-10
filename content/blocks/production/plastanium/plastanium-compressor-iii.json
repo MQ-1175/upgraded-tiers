@@ -16,7 +16,7 @@
 	"hasItems": true,
 	"itemCapacity": 45,
         "liquidCapacity": 80,
-	"craftTime": 360,
+	"craftTime": 300,
 	"craftEffect": "formsmoke",
 	"updateEffect": "plasticburn",
 	"consumes": {
