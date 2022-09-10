@@ -4,6 +4,14 @@
 "drawer": {
     "type": "DrawMulti"
     "drawers": [
+    {
+    "type": "drawRegion",
+    "suffix": "-bottom"    
+    },
+    {
+    "type": "DrawLiquidTile"
+    "drawLiquid": "oil"
+    },
    {
     "type": "DrawDefault"
    },
