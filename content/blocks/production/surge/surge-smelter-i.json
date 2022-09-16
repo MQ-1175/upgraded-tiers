@@ -1,0 +1,50 @@
+{	
+"type": "GenericCrafter",
+"size": 2,
+"drawer": {
+    "type": "DrawMulti"
+    "drawers": [
+   {
+    "type": "DrawDefault"
+   }
+   {
+    "type": "DrawFlame",
+    "flameRadius": 2,         
+    "flameRadiusIn": 1,
+    "flameRadiusScl": 2,  
+    "flameRadiusMag": 1,    
+    "flameRadiusInMag": 0.75
+   }
+               ]
+          },
+        "hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 10,
+	"craftTime": 480,
+	"craftEffect": "smeltsmoke",
+	"updateEffect": "none",
+	"consumes": {
+		"power": 1.5,
+		"items": {
+			"items": [
+               "silicon/3",
+               "titanium/3",
+               "copper/3",
+               "lead/4"
+			]
+		}
+	},
+	"requirements": [
+    "lead/40",
+    "titanium/40",
+    "silicon/40",
+	],
+	"category": "crafting",
+	"research": "melter",
+	"outputItem": "surge-alloy/1"
+"researchCost": [
+  "lead/1000",
+  "thorium/900",
+  "silicon/1000"
+]
+}
