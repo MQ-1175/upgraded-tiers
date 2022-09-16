@@ -1,5 +1,5 @@
 # More structures
-Mindustry mod that extends your tech tree with higher tiers of blocks.
+Mindustry mod that extends your tech tree with higher (or lowers) tiers of blocks.
 
 
 
