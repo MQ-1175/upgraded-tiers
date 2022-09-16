@@ -36,8 +36,7 @@
 	},
 	"requirements": [
     "lead/40",
-    "thorium/10",
-    "titanium/10",
+    "titanium/30",
     "silicon/40",
 	],
 	"category": "crafting",
@@ -45,7 +44,7 @@
 	"outputItem": "surge-alloy/1"
 "researchCost": [
   "lead/1000",
-  "thorium/900",
+  "titanium/1000",
   "silicon/1000"
 ]
 }
