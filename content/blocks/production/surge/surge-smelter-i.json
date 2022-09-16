@@ -13,7 +13,7 @@
     "flameRadiusIn": 1,
     "flameRadiusScl": 4,  
     "flameRadiusMag": 2,    
-    "flameRadiusInMag": 1.75
+    "flameRadiusInMag": 1.5
    }
                ]
           },
@@ -36,7 +36,8 @@
 	},
 	"requirements": [
     "lead/40",
-    "titanium/40",
+    "thorium/10",
+    "titanium/10",
     "silicon/40",
 	],
 	"category": "crafting",
