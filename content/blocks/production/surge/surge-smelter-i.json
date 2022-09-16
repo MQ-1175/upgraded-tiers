@@ -11,16 +11,16 @@
     "type": "DrawFlame",
     "flameRadius": 2,         
     "flameRadiusIn": 1,
-    "flameRadiusScl": 2,  
-    "flameRadiusMag": 1,    
-    "flameRadiusInMag": 0.75
+    "flameRadiusScl": 4,  
+    "flameRadiusMag": 2,    
+    "flameRadiusInMag": 1.75
    }
                ]
           },
         "hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 10,
-	"craftTime": 480,
+	"craftTime": 600,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
 	"consumes": {
