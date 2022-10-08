@@ -28,11 +28,11 @@
 	"hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 25,
-  "liquidCapacity":5,
+        "liquidCapacity":80,
 	"craftTime": 150,
 	"outputsLiquid": true,
 	"consumes": {
-		"power": 3,
+		"power": 7,
 		"items": {
 			"items": [
                 "titanium/15",
