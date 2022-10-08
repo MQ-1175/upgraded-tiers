@@ -39,12 +39,12 @@
 		}
 	},
 	"requirements": [
-     "silicon/250",
-    "titanium/250",
-    "lead/300",
-    "plastanium/150",
-    "thorium/300",
-    "phase-fabric/150"
+     "silicon/200",
+    "titanium/200",
+    "lead/250",
+    "plastanium/100",
+    "thorium/250",
+    "phase-fabric/80"
 	],
 	"category": "crafting",
 	"research": "phase-weaver",
