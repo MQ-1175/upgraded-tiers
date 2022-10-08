@@ -27,7 +27,7 @@
 },
 	"hasPower": true,
 	"hasItems": true,
-	"itemCapacity": 25,
+	"itemCapacity": 40,
         "liquidCapacity":80,
 	"craftTime": 150,
 	"outputsLiquid": true,
