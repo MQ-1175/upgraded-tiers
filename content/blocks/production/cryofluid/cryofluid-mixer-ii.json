@@ -14,12 +14,6 @@
     "drawLiquidLight": true
   },
   {
-    "type": "DrawRegion",
-    "suffix": "-spinner"
-    "rotateSpeed": 3,
-    "spinSprite": true
-  },
-  {
     "type": "DrawDefault"
   }
                ]
