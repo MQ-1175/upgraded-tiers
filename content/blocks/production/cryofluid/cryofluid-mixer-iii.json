@@ -42,7 +42,7 @@
 	  },
       "liquid": {
 			"liquid": "water",
-			"amount": 1.2
+			"amount": 1.7
 		}
 	},
 	"requirements": [
@@ -55,5 +55,5 @@
 	],
 	"category": "crafting",
 	"research": "cryofluid-mixer-ii",
-	"outputLiquid": "cryofluid/1.2"
+	"outputLiquid": "cryofluid/1.7"
 }
