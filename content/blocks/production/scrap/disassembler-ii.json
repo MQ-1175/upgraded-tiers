@@ -30,20 +30,16 @@
 ]
 },
 
-  "hasPower": true,
+        "hasPower": true,
 	"hasItems": true,
-	"itemCapacity": 35,
-        "liquidCapacity":20,
-	"craftTime": 15,
-	"outputsLiquid": true,
+	"itemCapacity": 30,
+        "liquidCapacity": 50,
+	"craftTime": 4,
 	"consumes": {
 		"power": 6.5,
-		"items": {
-			"items": ["scrap/2", "pyratite/1"]
-	  },
-      "liquid": {
+        "liquid": {
 			"liquid": "slag",
-			"amount": 0.5
+			"amount": 1.4
 		}
 	},
  "results": [
