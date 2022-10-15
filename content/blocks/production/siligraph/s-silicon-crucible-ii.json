@@ -43,6 +43,8 @@
         "plastanium/100",
 	],
 	"category": "crafting",
-	"research": "silicon-crucible",
+	"research":   "root": true,
+  "name": "s",
+  "requiresUnlock": false
 	"outputItem": "silicon/25"
 }
