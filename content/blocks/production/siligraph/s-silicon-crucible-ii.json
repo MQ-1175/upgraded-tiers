@@ -43,8 +43,10 @@
         "plastanium/100",
 	],
 	"category": "crafting",
-	"research":   "root": true,
+	"research":  [
+ "root": true,
   "name": "s",
   "requiresUnlock": false
+]
 	"outputItem": "silicon/25"
 }
