@@ -25,7 +25,7 @@
 	"craftTime": 60,
 	"outputsLiquid": true,
 	"consumes": {
-		"power": ,
+		"power": 2,
 		"items": {
 			"items": [
                 "coal/2",
