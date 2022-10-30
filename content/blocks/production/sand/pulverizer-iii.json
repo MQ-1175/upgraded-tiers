@@ -28,7 +28,7 @@
 	"hasItems": true,
 	"itemCapacity": 30,
         "liquidCapacity": 35
-	"craftTime": 150,
+	"craftTime": 120,
 	"craftEffect": "pulverize",
 	"updateEffect": "pulverizeSmall",
     "ambientSound": "grinding",
