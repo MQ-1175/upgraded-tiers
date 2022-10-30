@@ -34,11 +34,10 @@
 		}
 	},
 	"requirements": [
-        "lead/70",
-        "copper/75",    
+        "lead/75",
+        "titanium/70",    
         "silicon/50",
-        "metaglass/50",
-        "plastanium/40"
+        "plastanium/60"
 	],
 	"category": "crafting",
 	"research": "melter-ii",
