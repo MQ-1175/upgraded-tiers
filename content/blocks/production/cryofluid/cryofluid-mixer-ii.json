@@ -4,7 +4,11 @@
 "drawer": {
     "type": "DrawMulti"
     "drawers": [
-  {
+ {
+    "type": "drawRegion",
+    "suffix": "-bottom"    
+    },  
+ {
     "type": "DrawLiquidTile",
     "drawLiquid": "water"
   },
