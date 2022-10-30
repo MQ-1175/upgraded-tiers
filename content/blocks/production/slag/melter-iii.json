@@ -25,7 +25,7 @@
 	"craftTime": 90,
 	"outputsLiquid": true,
 	"consumes": {
-		"power": 7,
+		"power": 5,
 		"items": {
 			"items": [
                 "pyratite/3",
