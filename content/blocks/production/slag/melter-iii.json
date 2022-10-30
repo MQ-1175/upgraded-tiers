@@ -1,0 +1,46 @@
+{	
+  "type": "GenericCrafter",
+  "size": 3,
+  "drawer": {
+    "type": "DrawMulti"
+    "drawers": [
+    {
+    "type": "drawRegion",
+    "suffix": "-bottom"    
+    },
+  {
+    "type": "DrawLiquidTile",
+    "drawLiquid": "slag"
+  },
+  {
+    "type": "DrawDefault"
+  }
+               ]
+
+},
+	"hasPower": true,
+	"hasItems": true,
+        "liquidCapacity": 40
+	"itemCapacity": 30,
+	"craftTime": 90,
+	"outputsLiquid": true,
+	"consumes": {
+		"power": 7,
+		"items": {
+			"items": [
+                "pyratite/3",
+                "scrap/6"            
+ 			]
+		}
+	},
+	"requirements": [
+        "lead/70",
+        "copper/75",    
+        "silicon/50",
+        "metaglass/50",
+        "plastanium/40"
+	],
+	"category": "crafting",
+	"research": "melter",
+	"outputLiquid": "slag/1.5"
+}
