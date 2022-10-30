@@ -23,7 +23,8 @@
    }
                ]
           },
-"hasPower": true,
+        "hasPower": true,
+        "hasLiquids":true,
 	"hasItems": true,
 	"itemCapacity": 30,
         "liquidCapacity": 35
@@ -33,7 +34,7 @@
     "ambientSound": "grinding",
     "ambientSoundVolume": 0.04,
 	"consumes": {
-		"power": 3,
+		"power": 3.5,
 		"items": {
 			"items": [
                "scrap/12"
