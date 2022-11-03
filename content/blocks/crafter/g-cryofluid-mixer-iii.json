@@ -58,6 +58,6 @@
         "surge-alloy/95"
 	],
 	"category": "crafting",
-	"research": "cryofluid-mixer-ii",
+	"research": "g-cryofluid-mixer-ii",
 	"outputLiquid": "cryofluid/1.7"
 }
