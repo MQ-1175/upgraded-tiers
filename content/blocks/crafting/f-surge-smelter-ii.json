@@ -38,13 +38,10 @@
 		}
 	},
 	"requirements": [
-     "silicon/300",
-    "titanium/400",
-    "lead/400",
-    "plastanium/200",
-    "thorium/350",
-    "phase-fabric/450",
-    "surge-alloy/200"
+     "silicon/175",
+    "titanium/200",
+    "lead/150",
+    "thorium/150",
 	],
 	"category": "crafting",
 	"research": "surge-smelter",
