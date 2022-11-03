@@ -43,6 +43,6 @@
         "surge-alloy/90"
 	],
 	"category": "crafting",
-	"research": "plastanium-compressor-ii",
+	"research": "d-plastanium-compressor-ii",
 	"outputItem": "plastanium/20"
 }
