@@ -40,6 +40,6 @@
         "plastanium/60"
 	],
 	"category": "crafting",
-	"research": "melter-ii",
+	"research": "j-melter-ii",
 	"outputLiquid": "slag/1.5"
 }
