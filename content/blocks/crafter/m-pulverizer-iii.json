@@ -52,6 +52,6 @@
     "plastanium/60",
 	],
 	"category": "crafting",
-	"research": "pulverizer-ii",
+	"research": "m-pulverizer-ii",
 	"outputItem": "sand/15"
 }
