@@ -42,6 +42,6 @@
         "plastanium/80",
 	],
 	"category": "crafting",
-	"research": "metaglass-crucible",
+	"research": "c-metaglass-crucible",
 	"outputItem": "metaglass/15"
 }
