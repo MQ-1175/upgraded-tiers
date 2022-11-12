@@ -23,7 +23,7 @@
 	"hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 40,
-	"craftTime": 200,
+	"craftTime": 180,
 	"craftEffect": "smeltsmoke",
 	"consumes": {
 		"power": 8,
@@ -44,5 +44,5 @@
 	],
 	"category": "crafting",
 	"research":  "silicon-crucible",
-	"outputItem": "silicon/25"
+	"outputItem": "silicon/20"
 }
