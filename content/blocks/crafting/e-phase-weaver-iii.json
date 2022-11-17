@@ -52,6 +52,6 @@
 	"research": "e-phase-weaver-ii",
 	"outputItem": {
                "phase-fabric/10",
-               "tenesine/3"
-	}
+               "tenesine/3",
+	             }
 }
