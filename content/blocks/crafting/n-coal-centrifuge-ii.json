@@ -7,7 +7,7 @@
     "liquidCapacity": 20,
 	"craftTime": 25,
 	"craftEffect": "coalSmeltsmoke",
-	"updateEffect": "pulverizeSmall",
+	"updateEffect": "pulverizeMedium",
 	"consumes": {
 		"power": 1,
         "liquid": {
