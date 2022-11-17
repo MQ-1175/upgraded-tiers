@@ -1,6 +1,6 @@
 {
     "cost": 1.5,
-     "radioactivity": 1,
+     "radioactivity": 2.2,
     "buildable": false,
     "color": "c7a445",
     "research": {
