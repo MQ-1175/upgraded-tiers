@@ -5,7 +5,7 @@
 	"hasItems": true,
 	"itemCapacity": 30,
         "liquidCapacity": 30,
-	"craftTime": 60,
+	"craftTime": 65,
 	"updateEffect": "smokeCloud",
 	"consumes": {
 		"power": 3,
@@ -16,7 +16,7 @@
 		},
            "liquid": {
 			"liquid": "oil",
-			"amount": 0.6
+			"amount": 0.5
 		}
 	},
 	"requirements": [
@@ -28,5 +28,5 @@
 	],
 	"category": "crafting",
 	"research": "n-coal-centrifuge-ii",
-	"outputItem": "coal/12"
+	"outputItem": "coal/15"
 }
