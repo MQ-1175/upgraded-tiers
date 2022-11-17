@@ -6,7 +6,6 @@
 	"itemCapacity": 30,
         "liquidCapacity": 30,
 	"craftTime": 60,
-	"craftEffect": "coalSmeltsmoke",
 	"updateEffect": "smokeCloud",
 	"consumes": {
 		"power": 3,
