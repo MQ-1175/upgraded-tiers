@@ -19,7 +19,7 @@
   },
    {
     "type": "DrawRegion",
-    "suffix": "-spinner"
+    "suffix": "-spinner",
     "rotateSpeed": 3,
     "spinSprite": true
   },
