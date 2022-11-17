@@ -1,7 +1,7 @@
 {	
   "type": "GenericCrafter",
   "size": 4,
-  "updateEffect": "smokeCloud",
+  "craftEffect": "smokeCloud",
 	"hasPower": true,
 	"hasItems": true,
      "liquidCapacity": 35,
