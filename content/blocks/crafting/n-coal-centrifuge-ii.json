@@ -1,0 +1,27 @@
+{	
+    "type": "GenericCrafter",
+	"size": 3,
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 20,
+    "liquidCapacity": 20,
+	"craftTime": 25,
+	"craftEffect": "coalSmeltsmoke",
+	"updateEffect": "pulverizeSmall",
+	"consumes": {
+		"power": 1,
+        "liquid": {
+			"liquid": "oil",
+			"amount": 0.25
+	        	}
+	},
+	"requirements": [
+        "lead/100",
+        "graphite/80",
+        "titanium/95",
+        "silicon/90"
+	],
+	"category": "crafting",
+	"research": "coal-centrifuge",
+	"outputItem": "coal/3"
+}
