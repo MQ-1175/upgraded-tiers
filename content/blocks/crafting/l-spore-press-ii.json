@@ -14,7 +14,7 @@
     },
     {
     "type": "DrawPistons",
-    "sinMag": 1.2
+    "sinMag": 1
     },
     {
     "type": "DrawDefault"
