@@ -6,7 +6,7 @@
 	"itemCapacity": 30,
         "liquidCapacity": 30,
 	"craftTime": 65,
-	"updateEffect": "smokeCloud",
+	"craftEffect": "smokeCloud",
 	"consumes": {
 		"power": 3,
 		"items": {
