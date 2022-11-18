@@ -50,5 +50,5 @@
 	],
 	"category": "crafting",
 	"research": "e-phase-weaver-ii",
-	"outputItems": "phase-fabric/12"
+	"outputItem": "phase-fabric/12"
 }
