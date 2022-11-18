@@ -50,8 +50,5 @@
 	],
 	"category": "crafting",
 	"research": "e-phase-weaver-ii",
-	"outputItems": [
-               "phase-fabric/10",
-               "tenesine/3"
-	             ]
+	"outputItems": "phase-fabric/12"
 }
