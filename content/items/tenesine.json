@@ -1,9 +1,0 @@
-{
-    "cost": 1.5,
-     "radioactivity": 1.8,
-    "buildable": false,
-    "color": "c7a445",
-    "research": {
-    "parent": "phase-fabric",
-  }
-}
