@@ -15,5 +15,9 @@ Thank thebildeo for Korean translation.
 
 
 Todo list:
+
+
 -Power blocks
+
+
 -Production blocks (drills)
