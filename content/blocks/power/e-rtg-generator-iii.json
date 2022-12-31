@@ -1,7 +1,7 @@
 {
     "type": "ConsumeGenerator",
     "size": 4,
-    "powerProduction": 22,
+    "powerProduction": 25,
     "drawer": {
       "type": "DrawMulti",
       "drawers": [

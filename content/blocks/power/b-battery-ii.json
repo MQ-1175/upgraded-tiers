@@ -1,5 +1,5 @@
 {
-"type": "Battery",
+"type": "battery",
 "size": 2,
 "health":120,
 "consumes": {
