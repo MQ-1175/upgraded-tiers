@@ -1,0 +1,34 @@
+{
+"type": "ConsumeGenerator",
+"size": 4,
+"hasPower": true,
+"hasItems": true,
+"powerProduction": 9,
+"ambientSound": "steam",
+"itemCapacity": 35,
+"generateEffect":"generatespark",
+"itemDuration": 30,
+"drawer": {
+  "type": "DrawMulti",
+  "drawers": [
+    {
+      "type": "DrawDefault"
+    },
+    {
+      "type": "DrawWarmupRegion"
+    }
+  ]
+},
+"consumes": {
+  "itemFlammable": {}
+},
+"category": "power",
+"research": "differential-generator",
+"requirements": [
+  "thorium/200",
+  "titanium/220",
+  "surge-alloy/150",
+  "silicon/200",
+  "plastanium/180"
+]
+}

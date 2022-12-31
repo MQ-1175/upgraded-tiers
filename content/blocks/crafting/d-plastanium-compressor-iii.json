@@ -2,13 +2,13 @@
 "type": "GenericCrafter",
 "size": 4,
 "drawer": {
-    "type": "DrawMulti"
+    "type": "DrawMulti",
     "drawers": [
    {
     "type": "DrawDefault"
    },
    {
-    "type": "DrawFade",
+    "type": "DrawFade"
    }	
                ]
           },
@@ -25,7 +25,7 @@
 			"items": [
                "titanium/15",
                "spore-pod/10",
-               "lead/12",
+               "lead/12"
 			]
 		},
        "liquid": {

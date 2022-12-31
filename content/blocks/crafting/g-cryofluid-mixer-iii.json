@@ -2,7 +2,7 @@
   "type": "GenericCrafter",
   "size": 4,
 "drawer": {
-    "type": "DrawMulti"
+    "type": "DrawMulti",
     "drawers": [
   {
     "type": "drawRegion",

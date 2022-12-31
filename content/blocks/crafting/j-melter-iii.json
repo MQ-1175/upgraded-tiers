@@ -2,7 +2,7 @@
   "type": "GenericCrafter",
   "size": 3,
   "drawer": {
-    "type": "DrawMulti"
+    "type": "DrawMulti",
     "drawers": [
     {
     "type": "drawRegion",
@@ -20,7 +20,7 @@
 },
 	"hasPower": true,
 	"hasItems": true,
-        "liquidCapacity": 40
+  "liquidCapacity": 40,
 	"itemCapacity": 30,
 	"craftTime": 90,
 	"outputsLiquid": true,

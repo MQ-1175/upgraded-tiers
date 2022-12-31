@@ -3,7 +3,7 @@
   "size": 4,
   "boostScale": 0.15,
 "drawer": {
-    "type": "DrawMulti"
+    "type": "DrawMulti",
     "drawers": [
    {
     "type": "DrawDefault"
@@ -40,7 +40,7 @@
         "titanium/175",
         "silicon/200",
         "surge-alloy/60",
-        "plastanium/100",
+        "plastanium/100"
 	],
 	"category": "crafting",
 	"research":  "silicon-crucible",

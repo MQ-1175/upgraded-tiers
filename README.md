@@ -1,23 +1,13 @@
-Current content:
+# More Than Vanilla
 
-Tier 2-3 Vanilla Crafters
+- Mindustry mod that adds higher tier of existing vanilla blocks, most is still under development
 
-
-
-
-Mod is still under development, might takes a while.
-Thank thebildeo for Korean translation.
+## Current content
+- Tier 2-3 crafters
+- Tier 2-3 power blocks (wip)
 
 
 
 
-
-
-
-Todo list:
-
-
--Power blocks
-
-
+# Todo list:
 -Production blocks (drills)

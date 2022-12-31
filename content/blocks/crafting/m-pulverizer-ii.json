@@ -2,7 +2,7 @@
 "type": "GenericCrafter",
 "size": 2,
 "drawer": {
-    "type": "DrawMulti"
+    "type": "DrawMulti",
     "drawers": [
    {
     "type": "drawRegion",
@@ -10,7 +10,7 @@
    },
 {
     "type": "DrawRegion",
-    "suffix": "-rotator"
+    "suffix": "-rotator",
     "rotateSpeed": 2.5,
     "spinSprite": true
   },
@@ -22,7 +22,7 @@
 "hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 20,
-        "liquidCapacity": 20
+    "liquidCapacity": 20,
 	"craftTime": 100,
 	"craftEffect": "pulverize",
 	"updateEffect": "pulverizeSmall",
@@ -43,7 +43,7 @@
 	"requirements": [
     "titanium/20",
     "lead/40",
-    "graphite/30",
+    "graphite/30"
 	],
 	"category": "crafting",
 	"research": "pulverizer",

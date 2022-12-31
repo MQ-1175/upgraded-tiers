@@ -2,14 +2,14 @@
 "type": "GenericCrafter",
 "size": 3,
 "drawer": {
-    "type": "DrawMulti"
+    "type": "DrawMulti",
     "drawers": [
     {
     "type": "drawRegion",
     "suffix": "-bottom"    
     },
     {
-    "type": "DrawLiquidTile"
+    "type": "DrawLiquidTile",
     "drawLiquid": "oil"
     },
    {

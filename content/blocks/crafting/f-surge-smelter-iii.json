@@ -3,7 +3,7 @@
 "boostScale": 0.1,
 "size": 5,
 "drawer": {
-    "type": "DrawMulti"
+    "type": "DrawMulti",
     "drawers": [
    {
    "type": "DrawDefault"

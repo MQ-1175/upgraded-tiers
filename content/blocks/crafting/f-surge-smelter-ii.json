@@ -4,11 +4,11 @@
 "boostScale": 0.1,
 "size": 4,
 "drawer": {
-    "type": "DrawMulti"
+    "type": "DrawMulti",
     "drawers": [
    {
     "type": "DrawDefault"
-   }
+   },
    {
     "type": "DrawFlame",
     "flameRadius": 4,         
