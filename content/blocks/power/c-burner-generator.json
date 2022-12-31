@@ -19,7 +19,9 @@
     }
   ]
 },
-"consumes": "itemFlammable",
+"consumes": {
+  "itemFlammable": []
+},
 "category": "power",
 "research": "differential-generator",
 "requirements": [
