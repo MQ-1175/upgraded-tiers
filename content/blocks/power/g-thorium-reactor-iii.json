@@ -1,6 +1,6 @@
 {
 	"type": "NuclearReactor",
-	"health": 5500,
+	"health": 6000,
 	"itemCapacity": 45,
 	"liquidCapacity": 45,
 	"size": 5,
@@ -9,7 +9,7 @@
     "explosionRadius": 28,
     "explosionDamage": 900,
 	"hasLiquids": true,
-	"powerProduction": 80,
+	"powerProduction": 100,
 	"itemDuration": 320,
 	"heating": 0.02,
 	"consumes": {
@@ -18,7 +18,7 @@
 			],
             "liquid": {
                 "liquid": "cryofluid",
-                "amount": 1
+                "amount": 2
             }
 	},
 	"requirements": [
