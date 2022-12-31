@@ -1,7 +1,7 @@
 type: SolarGenerator
 size: 4
 hasPower: true
-powerProduction: 3
+powerProduction: 3.5
 requirements: [
   lead/175
   silicon/200
