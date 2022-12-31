@@ -20,7 +20,7 @@
     "itemCapacity": 40,
     "itemDuration": 400,
     "consumes": {
-      "itemRadioactive":{}
+      "itemRadioactive":[]
     },
     "minItemEfficiency": 0.2,
         "requirements": [
