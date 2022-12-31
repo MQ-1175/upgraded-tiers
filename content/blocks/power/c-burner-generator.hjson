@@ -19,7 +19,7 @@ drawer: {
   ]
 }
 consumes: {
-  itemFlammable: {}
+  items: [itemFlammable:{}]
 }
 category: power
 research: differential-generator
