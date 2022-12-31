@@ -1,4 +1,4 @@
-//type: ConsumeGenerator
+type: ConsumeGenerator
 size: 3
 powerProduction: 11
 drawer: {
