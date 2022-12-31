@@ -1,0 +1,13 @@
+type: Battery
+size: 4
+health: 750
+consumes: {
+  powerBuffered: 160000
+}
+research: battery-large
+requirements: [
+  lead/150
+  titanium/120
+  surge-alloy/90
+  silicon/120
+]

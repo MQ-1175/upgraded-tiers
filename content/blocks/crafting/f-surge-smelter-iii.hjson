@@ -1,0 +1,54 @@
+type: AttributeCrafter
+boostScale: 0.1
+size: 5
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawDefault
+    }
+    {
+      type: DrawFlame
+      flameRadius: 5
+      flameRadiusIn: 3
+      flameRadiusScl: 4
+      flameRadiusMag: 2
+      flameRadiusInMag: 1.6
+    }
+  ]
+}
+hasPower: true
+hasItems: true
+itemCapacity: 50
+liquidCapacity: 40
+craftTime: 200
+craftEffect: smeltsmoke
+updateEffect: none
+consumes: {
+  power: 15
+  items: {
+    items: [
+      silicon/14
+      titanium/14
+      copper/16
+      lead/16
+      blast-compound/5
+    ]
+  }
+  liquid: {
+    liquid: cryofluid
+    amount: 0.25
+  }
+}
+requirements: [
+  lead/380
+  silicon/350
+  titanium/375
+  plastanium/250
+  thorium/250
+  phase-fabric/175
+  surge-alloy/150
+]
+category: crafting
+research: f-surge-smelter-ii
+outputItem: surge-alloy/12
