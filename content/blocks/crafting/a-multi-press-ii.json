@@ -1,0 +1,33 @@
+{	
+    "type": "GenericCrafter",
+	"size": 4,
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 30,
+        "liquidCapacity": 30,
+	"craftTime": 60,
+	"craftEffect": "pulverize",
+	"updateEffect": "pulverizeSmall",
+	"consumes": {
+		"power": 6,
+		"items": {
+			"items": [
+               "coal/15"             
+ 			]
+		},
+                   "liquid": {
+			"liquid": "water",
+			"amount": 0.2
+		}
+	},
+	"requirements": [
+        "lead/250",
+        "graphite/150",
+        "titanium/200",
+        "silicon/100",
+        "plastanium/100"
+	],
+	"category": "crafting",
+	"research": "multi-press",
+	"outputItem": "graphite/12"
+}
