@@ -21,8 +21,8 @@
     },
     "minItemEfficiency": 0.2,
         "requirements": [
-          "lead/550",
-          "silicon/500",
+          "lead/500",
+          "silicon/450",
           "plastanium/400",
           "thorium/500",
           "surge-alloy/450",
