@@ -1,4 +1,4 @@
-type: ConsumeGenerator
+// type: ConsumeGenerator
 size: 4
 hasPower: true
 hasItems: true
@@ -19,7 +19,7 @@ drawer: {
   ]
 }
 consumes: {
-  items: [itemFlammable:{}]
+  itemFlammable:{}
 }
 category: power
 research: differential-generator
