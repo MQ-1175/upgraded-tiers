@@ -19,9 +19,9 @@
     "hasItems": true,
     "itemCapacity": 30,
     "itemDuration": 400,
-    "consumes": {
-      "itemRadioactive": []
-    },
+    "consumes": [
+      "itemRadioactive": {}
+    ],
     "minItemEfficiency": 0.1,
         "requirements": [
           "lead/250",
