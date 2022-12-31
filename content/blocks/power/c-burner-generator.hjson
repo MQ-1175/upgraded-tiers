@@ -3,7 +3,8 @@ size: 4
 hasPower: true
 hasItems: true
 powerProduction: 40
-itemDuration: 20
+itemCapacity: 35
+itemDuration: 30
 drawer: {
   type: DrawMulti
   drawers: [
@@ -21,7 +22,10 @@ consumes: {
 category: power
 research: differential-generator
 requirements: [
-  copper/250
-  lead/200
-  //wip
+  thorium/200
+  titanium/220
+  surge-alloy/150
+  silicon/200
+  plastanium/180
 ]
+
