@@ -14,11 +14,11 @@
 	"heating": 0.02,
 	"consumes": {
 			"items": [
-                "thorium/12"
+                "thorium/13"
 			],
             "liquid": {
                 "liquid": "cryofluid",
-                "amount": 2
+                "amount": 0.6
             }
 	},
 	"requirements": [
