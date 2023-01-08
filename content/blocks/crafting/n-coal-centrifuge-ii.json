@@ -5,7 +5,7 @@
 	"hasItems": true,
 	"itemCapacity": 20,
     "liquidCapacity": 20,
-	"craftTime": 25,
+	"craftTime": 30,
 	"craftEffect": "coalSmeltsmoke",
 	"consumes": {
 		"power": 1,
