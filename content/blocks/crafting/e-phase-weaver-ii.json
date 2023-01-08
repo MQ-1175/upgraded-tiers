@@ -20,7 +20,7 @@
 	"hasItems": true,
 	"itemCapacity": 30,
         "liquidCapacity": 30,
-	"craftTime": 200,
+	"craftTime": 180,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
     "ambientSound": "techloop",

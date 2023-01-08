@@ -21,7 +21,7 @@
 	"hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 40,
-	"craftTime": 100,
+	"craftTime": 80,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
 	"consumes": {
@@ -43,5 +43,5 @@
 	],
 	"category": "crafting",
 	"research": "c-kiln-ii",
-	"outputItem": "metaglass/15"
+	"outputItem": "metaglass/18"
 }

@@ -20,7 +20,7 @@
 	"hasItems": true,
 	"itemCapacity": 40,
   "liquidCapacity": 40,
-	"craftTime": 300,
+	"craftTime": 240,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
             "ambientSound": "techloop",
@@ -50,5 +50,5 @@
 	],
 	"category": "crafting",
 	"research": "e-phase-weaver-ii",
-	"outputItem": "phase-fabric/12"
+	"outputItem": "phase-fabric/15"
 }
