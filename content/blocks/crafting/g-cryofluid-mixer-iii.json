@@ -50,12 +50,12 @@
 		}
 	},
 	"requirements": [
-        "lead/275",
-        "titanium/300",
-        "silicon/280",
+        "lead/225",
+        "titanium/250",
+        "silicon/250",
         "plastanium/150",
         "metaglass/100",
-        "surge-alloy/95"
+        "surge-alloy/100"
 	],
 	"category": "crafting",
 	"research": "g-cryofluid-mixer-ii",

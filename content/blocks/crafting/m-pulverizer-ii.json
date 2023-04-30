@@ -41,9 +41,9 @@
 		}
 	},
 	"requirements": [
-    "titanium/20",
-    "lead/40",
-    "graphite/30"
+    "titanium/40",
+    "lead/45",
+    "graphite/40"
 	],
 	"category": "crafting",
 	"research": "pulverizer",

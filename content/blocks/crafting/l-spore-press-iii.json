@@ -41,11 +41,11 @@
 	  }
 	},
 	"requirements": [
-        "lead/300",
-        "titanium/200",
-        "metaglass/150",
-        "plastanium/120",
-        "surge-alloy/75"
+        "lead/150",
+        "titanium/120",
+        "metaglass/125",
+        "plastanium/100",
+        "surge-alloy/80"
 	],
 	"category": "crafting",
 	"research": "l-spore-press-ii",

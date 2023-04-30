@@ -42,9 +42,9 @@
 		}
 	},
 	"requirements": [
-    "lead/380",  
+    "lead/300",  
     "silicon/350",
-    "titanium/375",
+    "titanium/350",
     "plastanium/250",
     "thorium/250",
     "phase-fabric/175",

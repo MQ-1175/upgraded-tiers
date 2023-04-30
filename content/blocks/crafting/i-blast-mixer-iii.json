@@ -22,8 +22,8 @@
                 }
 	,
 	"requirements": [
-        "lead/300",
-        "titanium/230",
+        "lead/200",
+        "titanium/200",
         "silicon/200",
         "metaglass/175",
         "plastanium/120"
