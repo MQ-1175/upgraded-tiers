@@ -1,7 +1,6 @@
 {	
   "type": "SolidPump",
   "size": 4,
-	"hasPower": true,
     "liquidCapacity":100,
     "rotateSpeed": 2.2,
     "pumpAmount": 1,
