@@ -4,7 +4,7 @@
     "liquidCapacity":100,
     "rotateSpeed": 2.2,
     "pumpAmount": 1,
-    "consumePower": 5.5,
+    "consumes": {"power": 5.5},
 	"outputsLiquid": true,
     "attribute":"water",
 	"requirements": [
