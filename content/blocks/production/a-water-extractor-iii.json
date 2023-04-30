@@ -1,0 +1,20 @@
+{	
+  "type": "SolidPump",
+  "size": 4,
+	"hasPower": true,
+    "liquidCapacity":100,
+    "rotateSpeed": 2.2,
+    "pumpAmount": 1,
+    "consumePower": 5.5,
+	"outputsLiquid": true,
+    "attribute":"water",
+	"requirements": [
+        "lead/160",
+        "plastanium/140",
+        "silicon/80",
+        "metaglass/80",
+        "surge-alloy/70"
+	],
+	"category": "production",
+	"research": "a-water-extractor-ii"
+}

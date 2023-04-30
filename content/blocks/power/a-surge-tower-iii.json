@@ -3,7 +3,7 @@
     "size": 4,
     "health": 950,
     "laserRange": 110,
-    "maxNodes": 4,
+    "maxNodes": 7,
     "hasPower": true,
     "category": "power",
     "requirements": [

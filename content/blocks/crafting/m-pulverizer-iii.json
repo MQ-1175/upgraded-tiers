@@ -14,10 +14,6 @@
     "rotateSpeed": -4,
     "spinSprite": true
   },
-  {
-    "type": "DrawLiquidRegion",
-    "drawLiquid": "slag"
-  },
    {
    "type": "DrawDefault"
    }
