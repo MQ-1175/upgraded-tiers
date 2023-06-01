@@ -1,0 +1,32 @@
+{
+    "type": "Fracker",
+    "health": 590,
+    "result": "oil",
+    "pumpAmount": 0.35,
+    "baseEfficiency": 0,
+    "drawer": "DrawDefault",
+    "itemUseTime": 60,
+    "size": 4,
+    "requirements": [
+    ],
+    "hasPower": true,
+    "hasLiquids": true,
+    "hasItems": true,
+    "itemCapacity": 15,
+    "liquidCapacity": 50,
+    "attribute": "oil",
+    "consumes": {
+      "power": 6,
+      "items": {
+        "items": [
+          {"item": "sand", "amount": 1}
+        ]
+      },
+      "liquid": {
+        "liquid": "water",
+        "amount": 0.15
+      }
+    },
+    "category": "production",
+    "research": "c-oil-extractor-ii"
+  }
