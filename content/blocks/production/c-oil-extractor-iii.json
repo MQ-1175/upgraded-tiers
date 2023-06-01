@@ -6,7 +6,7 @@
     "baseEfficiency": 0,
     "drawer": "DrawDefault",
     "itemUseTime": 60,
-    "size": 4,
+    "size": 5,
     "requirements": [
     ],
     "hasPower": true,
