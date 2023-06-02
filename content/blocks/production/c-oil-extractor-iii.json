@@ -10,7 +10,7 @@
       "type": "DrawDefault"   
       },
       {
-      "type": "DrawLiquidTile",
+      "type": "DrawLiquidRegion",
       "drawLiquid": "oil"
       },
       {
