@@ -1,11 +1,31 @@
 {
-    "type": "Fracker",
+    "type": "AttributeCrafter",
     "health": 590,
-    "result": "oil",
-    "pumpAmount": 0.35,
+    "outputLiquid": "oil/0.8",
     "baseEfficiency": 0,
-    "drawer": "DrawDefault",
-    "itemUseTime": 60,
+    "drawer": {
+      "type": "DrawMulti",
+      "drawers": [
+      {
+      "type": "DrawDefault"   
+      },
+      {
+      "type": "DrawLiquidTile",
+      "drawLiquid": "oil"
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-rotator",
+        "rotateSpeed": 3,
+        "spinSprite": true
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-top"
+      }
+                 ]
+  
+  },
     "size": 5,
     "requirements": [
     ],
@@ -13,6 +33,7 @@
     "hasLiquids": true,
     "hasItems": true,
     "itemCapacity": 15,
+    "craftTime":90,
     "liquidCapacity": 50,
     "attribute": "oil",
     "consumes": {
