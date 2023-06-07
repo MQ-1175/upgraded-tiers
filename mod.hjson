@@ -1,12 +1,12 @@
 name: morevanilla
-displayName: More Than Vanilla 
+displayName: Upgraded Vanilla 
 author: M.Q.
 description:
   '''
-Adds higher tier of blocks, starting from factories and power generators.
-The mod aims to expand further production and defense in late game
+Adds higher tier of vanilla blocks, starting from Serpulo.
+The mod aims to expand further production and defense in late game.
 Mod is still in development more contents coming soon.
   '''
-version: 1.4
-minGameVersion: 136
-hideBrowser: true
+version: 1.5
+minGameVersion: 143
+hideBrowser: false

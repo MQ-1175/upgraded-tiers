@@ -28,6 +28,11 @@
   },
     "size": 4,
     "requirements": [
+      "silicon/175",
+      "titanium/180",
+      "lead/150",
+      "thorium/150",
+      "surge-alloy/70"
     ],
     "hasPower": true,
     "craftTime":60,
