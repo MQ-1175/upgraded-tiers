@@ -42,7 +42,7 @@
     "itemCapacity": 15,
     "liquidCapacity": 50,
     "attribute": "oil",
-    "boostScale": 0.1,
+    "boostScale": 0.05,
     "consumes": {
       "power": 6,
       "items": {
