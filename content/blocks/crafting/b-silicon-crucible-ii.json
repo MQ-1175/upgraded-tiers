@@ -2,6 +2,7 @@
   "type": "AttributeCrafter",
   "size": 4,
   "boostScale": 0.15,
+  "maxBoost": 1.5,
 "drawer": {
     "type": "DrawMulti",
     "drawers": [
