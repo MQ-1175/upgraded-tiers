@@ -18,8 +18,7 @@
     "hasItems": true,
     "craftEffect": "none",
     "attribute": "spores",
-    "boostScale": 0.1,
-    "maxBoost": 4,
+    "maxBoost": 3,
     "envRequired": 8,
     "consumes": {
       "power": 6,
