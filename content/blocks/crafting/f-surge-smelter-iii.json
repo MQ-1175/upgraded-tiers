@@ -10,11 +10,11 @@
    },
    {
     "type": "DrawFlame",
-    "flameRadius": 5,         
-    "flameRadiusIn": 3,
-    "flameRadiusScl": 4,  
-    "flameRadiusMag": 2,    
-    "flameRadiusInMag": 1.6
+    "flameRadius": 6,         
+    "flameRadiusIn": 3.5,
+    "flameRadiusScl": 4.5,  
+    "flameRadiusMag": 2.5,    
+    "flameRadiusInMag": 1.7
    }
                ]
           },
