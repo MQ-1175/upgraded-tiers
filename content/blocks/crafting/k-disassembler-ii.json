@@ -31,9 +31,10 @@
 },
 
         "hasPower": true,
+        "hasLiquids":true,
 	"hasItems": true,
 	"itemCapacity": 30,
-        "liquidCapacity": 50,
+  "liquidCapacity": 50,
 	"craftTime": 4,
 	"consumes": {
 		"power": 6.5,
