@@ -10,9 +10,14 @@
     },  
     {
     "type": "DrawPistons",
-    "sinMag": 1.2,
+    "sinMag": 1,
+    "sinScl": 4,
     "sides": 8
     },
+    {
+      "type": "drawRegion",
+      "suffix": "-piston-hide"    
+      }, 
     {
       "type": "DrawLiquidRegion",
       "drawLiquid": "oil"
