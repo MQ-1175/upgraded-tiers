@@ -13,16 +13,11 @@
     "drawLiquid": "oil"
     },
     {
-        "type": "DrawRegion",
-        "suffix": "-rotator",
-        "rotateSpeed": -3.5,
-        "spinSprite": true
-    },
-    {
     "type": "DrawDefault"
     },
     {
-        "type": "DrawFrames"
+        "type": "DrawFrames",
+        "frames": 4
     }
                ]
 },

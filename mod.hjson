@@ -1,5 +1,5 @@
 name: morevanilla
-displayName: Upgraded Content
+displayName: Campaign Expansion Mod
 author: M.Q.
 description:
   '''
@@ -7,6 +7,6 @@ Adds higher tier of vanilla blocks, starting from Serpulo.
 The mod aims to expand further production and defense in late game.
 Mod is still in development more contents coming soon.
   '''
-version: 1.4
-minGameVersion: 143
+version: 1.5
+minGameVersion: 144
 hideBrowser: true

@@ -2,6 +2,25 @@
   "type": "GenericCrafter",
   "size": 4,
   "craftEffect": "smokeCloud",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+  {
+    "type": "DrawDefault"
+  },
+  {
+    "type": "DrawRegion",
+    "suffix": "-spinner",
+    "rotateSpeed": 3,
+    "spinSprite": true
+  },
+  {
+    "type": "DrawRegion",
+    "suffix": "-top"
+  }
+               ]
+
+     },
 	"hasPower": true,
 	"hasItems": true,
      "liquidCapacity": 35,

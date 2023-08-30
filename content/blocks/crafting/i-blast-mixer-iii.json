@@ -1,6 +1,25 @@
 {	
   "type": "GenericCrafter",
   "size": 4,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+  {
+    "type": "DrawDefault"
+  },
+  {
+    "type": "DrawRegion",
+    "suffix": "-spinner",
+    "rotateSpeed": 4,
+    "spinSprite": true
+  },
+  {
+    "type": "DrawRegion",
+    "suffix": "-top"
+  }
+               ]
+
+     },
   "craftEffect": "blastsmoke",
 	"hasPower": true,
 	"hasItems": true,

@@ -10,7 +10,7 @@
   {
     "type": "DrawRegion",
     "suffix": "-spinner",
-    "rotateSpeed": 2,
+    "rotateSpeed": 3,
     "spinSprite": true
   },
   {

@@ -9,12 +9,13 @@
     "suffix": "-bottom"    
     },  
     {
-    "type": "DrawLiquidTile",
-    "drawLiquid": "oil"
+    "type": "DrawPistons",
+    "sinMag": 1.2,
+    "sides": 8
     },
     {
-    "type": "DrawPistons",
-    "sinMag": 1
+      "type": "DrawLiquidRegion",
+      "drawLiquid": "oil"
     },
     {
     "type": "DrawDefault"

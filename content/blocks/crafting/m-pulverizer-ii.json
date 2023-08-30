@@ -4,21 +4,22 @@
 "drawer": {
     "type": "DrawMulti",
     "drawers": [
-   {
-    "type": "drawRegion",
-    "suffix": "-bottom"    
-   },
-{
+  {
+    "type": "DrawDefault"
+  },
+  {
     "type": "DrawRegion",
     "suffix": "-rotator",
-    "rotateSpeed": 2.5,
+    "rotateSpeed": -4,
     "spinSprite": true
   },
-   {
-   "type": "DrawDefault"
-   }
+  {
+    "type": "DrawRegion",
+    "suffix": "-top"
+  }
                ]
-          },
+
+     },
 "hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 20,

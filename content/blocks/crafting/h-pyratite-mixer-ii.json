@@ -1,6 +1,6 @@
 {	
-  "type": "GenericCrafter",
-  "size": 3,
+"type": "GenericCrafter",
+"size": 3,
 "drawer": {
     "type": "DrawMulti",
     "drawers": [
@@ -12,6 +12,10 @@
     "suffix": "-spinner",
     "rotateSpeed": 2,
     "spinSprite": true
+  },
+  {
+    "type": "DrawRegion",
+    "suffix": "-top"
   }
                ]
 

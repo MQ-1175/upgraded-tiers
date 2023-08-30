@@ -4,21 +4,26 @@
 "drawer": {
     "type": "DrawMulti",
     "drawers": [
-   {
-    "type": "drawRegion",
-    "suffix": "-bottom"    
-   },
-{
+  {
+    "type": "DrawDefault"
+  },
+  {
     "type": "DrawRegion",
     "suffix": "-rotator",
-    "rotateSpeed": -4,
+    "rotateSpeed": -5,
     "spinSprite": true
   },
-   {
-   "type": "DrawDefault"
-   }
+  {
+    "type": "DrawLiquidRegion",
+    "drawLiquid": "water"
+  },
+  {
+    "type": "DrawRegion",
+    "suffix": "-top"
+  }
                ]
-          },
+
+     },
         "hasPower": true,
         "hasLiquids":true,
 	"hasItems": true,
