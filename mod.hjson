@@ -10,4 +10,4 @@ Mod is still in development more contents coming soon.
 version: 1.5
 subtitle: "v1.5 Alpha"
 minGameVersion: 144
-hideBrowser: true
+hideBrowser: false
