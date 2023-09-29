@@ -12,6 +12,14 @@
   "type": "DrawMulti",
   "drawers": [
     {
+      "type": "drawRegion",
+      "suffix": "-bottom"    
+      },  
+   {
+      "type": "DrawLiquidTile",
+      "drawLiquid": "cryofluid"
+    },
+    {
       "type": "DrawDefault"
     },
     {
@@ -20,7 +28,11 @@
   ]
 },
 "consumes": {
-  "itemFlammable": {}
+  "itemFlammable": {},
+  "liquid": {
+    "liquid": "cryofluid",
+    "amount": 0.4
+}
 },
 "category": "power",
 "research": "differential-generator",
