@@ -4,6 +4,8 @@
     "powerProduction": 5,
     "generateEffect": "redgeneratespark",
     "floating": true,
+    "boostScale": 0.15,
+    "maxBoost": 1.5,
     "ambientSound": "hum",
     "ambientSoundVolume": 0.4,
     "requirements": [
