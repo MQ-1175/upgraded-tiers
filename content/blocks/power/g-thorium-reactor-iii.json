@@ -7,7 +7,7 @@
 	"ambientSound": "hum",
 	"ambientSoundVolume": 0.35,
     "explosionRadius": 24,
-    "explosionDamage": 800,
+    "explosionDamage": 4000,
 	"hasLiquids": true,
 	"powerProduction": 100,
 	"itemDuration": 320,
