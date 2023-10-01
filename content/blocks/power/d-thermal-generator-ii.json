@@ -1,7 +1,7 @@
 {
     "type": "ThermalGenerator",
     "size": 3,
-    "powerProduction": 3,
+    "powerProduction": 2.5,
     "generateEffect": "redgeneratespark",
     "floating": true,
     "boostScale": 0.15,

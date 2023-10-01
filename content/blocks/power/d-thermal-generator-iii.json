@@ -1,7 +1,7 @@
 {
     "type": "ThermalGenerator",
     "size": 4,
-    "powerProduction": 8,
+    "powerProduction": 5,
     "generateEffect": "redgeneratespark",
     "floating": true,
     "ambientSound": "hum",
