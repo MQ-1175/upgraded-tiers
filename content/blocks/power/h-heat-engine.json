@@ -1,8 +1,7 @@
 {
-     "type": "ConsumeGenerator",
+     "type": "ThermalGenerator",
      "size": 3,
      "health": 1900,
-     "maxHeat": 10,
      "drawer": {
           "type": "DrawMulti",
           "drawers": [
@@ -37,10 +36,10 @@
     },
       "generateEffect": {
           "particles": 1,
-          "length": 55,
+          "length": 50,
           "lifetime": 300,
-          "cone": 15,
-          "baseRotation": 20,
+          "cone": 12,
+          "baseRotation": 36,
           "sizeFrom": 0,
           "sizeTo": 4,
           "colorTo": 78787800,
