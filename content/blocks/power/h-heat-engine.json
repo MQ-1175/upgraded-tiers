@@ -68,6 +68,7 @@
        "itemCapacity": 30,
        "powerProduction": 20,
        "liquidCapacity": 30,
+       "itemDuration": 240,
        "hasLiquids": true,
        "outputItem": "scrap/10",
        "category": "power"
