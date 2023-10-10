@@ -67,7 +67,8 @@
        "powerProduction": 20,
        "liquidCapacity": 30,
        "hasLiquids": true,
-       "outputItem": "scrap/10"
+       "outputItem": "scrap/10",
+       "category": "power"
       }
 
 
