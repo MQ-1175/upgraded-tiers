@@ -1,6 +1,6 @@
 {
      "type": "VariableReactor",
-     "health": 1800,
+     "health": 1900,
      "drawer": {
           "type": "DrawMulti",
           "drawers": [
