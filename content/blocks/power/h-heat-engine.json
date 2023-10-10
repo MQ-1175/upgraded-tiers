@@ -68,7 +68,8 @@
           "plastanium/100"
        ],
        "itemCapacity": 30,
-       "liquidCapacity": 40,
+       "powerProduction": 20,
+       "liquidCapacity": 30,
        "hasLiquids": true,
        "outputItem": "scrap/10"
       }
