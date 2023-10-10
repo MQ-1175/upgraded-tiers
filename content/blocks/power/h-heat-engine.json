@@ -1,5 +1,6 @@
 {
      "type": "ConsumeGenerator",
+     "size":3,
      "health": 1900,
      "drawer": {
           "type": "DrawMulti",
