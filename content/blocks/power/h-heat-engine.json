@@ -1,0 +1,105 @@
+{
+     "type": "VariableReactor",
+     "health": 1800,
+     "drawer": {
+          "type": "DrawMulti",
+          "drawers": [
+         {
+          "type": "drawRegion",
+          "suffix": "-bottom"    
+         },
+        {
+          "type": "DrawLiquidRegion",
+          "drawLiquid": "water"
+        },
+        {
+          "type": "DrawRegion",
+          "suffix": "-spinner-2",
+          "rotateSpeed": 4,
+          "spinSprite": true
+        },
+         {
+          "type": "DrawRegion",
+          "suffix": "-fan",
+          "rotateSpeed": 4,
+          "rotation": 30,
+          "spinSprite": true
+        },
+        {
+          "type": "DrawRegion",
+          "suffix": "-fan",
+          "rotateSpeed": 4,
+          "rotation": 60,
+          "spinSprite": true
+        },
+        {
+          "type": "DrawDefault"
+        }
+      ],
+      "generateEffect": {
+          "particles": 1,
+          "length": 55,
+          "lifetime": 300,
+          "cone": 15,
+          "baseRotation": 20,
+          "sizeFrom": 0,
+          "sizeTo": 4,
+          "colorTo": 78787800,
+          "sizeInterp": "pow2Out",
+          "interp": "pow2Out"
+                        },
+        "consumes": {
+          "items": [
+           "silicon/8",
+           "titanium/6"
+          ],
+       "liquid": {
+           "liquid": "water",
+           "amount": 0.3
+       }
+                    },
+         "explosionRadius": 16,
+         "explosionDamage": 6000,
+         "requirements": [
+          "lead/300",
+          "silicon/250",
+          "titanium/300",
+          "thorium/300",
+          "plastanium/100"
+       ],
+       "itemCapacity": 30,
+       "liquidCapacity": 40,
+       "hasLiquids": true,
+       "outputItem": "scrap/10"
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

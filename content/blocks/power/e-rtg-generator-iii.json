@@ -1,5 +1,5 @@
 {
-    "type": "ConsumeGenerator",
+    "type": "ThermalGenerator",
     "size": 4,
     "powerProduction": 25,
     "drawer": {
