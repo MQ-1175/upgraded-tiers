@@ -11,7 +11,7 @@
          },
         {
           "type": "DrawRegion",
-          "suffix": "-spinner-2",
+          "suffix": "-fan",
           "rotateSpeed": 4,
           "spinSprite": true
         },
