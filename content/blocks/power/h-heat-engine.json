@@ -1,7 +1,8 @@
 {
-     "type": "ConsumeGenerator",
+     "type": "VariableReactor",
      "size":3,
      "health": 1900,
+     "maxHeat": 100,
      "drawer": {
           "type": "DrawMulti",
           "drawers": [
