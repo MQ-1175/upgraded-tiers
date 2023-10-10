@@ -1,6 +1,6 @@
 {
      "type": "VariableReactor",
-     "size":3,
+     "size": 3,
      "health": 1900,
      "maxHeat": 100,
      "drawer": {
@@ -68,8 +68,11 @@
        "itemCapacity": 30,
        "powerProduction": 20,
        "liquidCapacity": 30,
-       "itemDuration": 240,
+       "hasPower": true,
+       "hasItems": true,
+       "itemDuration": 180,
        "hasLiquids": true,
+       "outputItem": "scrap/10",
        "category": "power"
       }
 }
