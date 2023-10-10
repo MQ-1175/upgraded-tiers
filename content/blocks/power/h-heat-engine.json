@@ -1,5 +1,5 @@
 {
-     "type": "ConsumeReactor",
+     "type": "ConsumeGenerator",
      "health": 1900,
      "drawer": {
           "type": "DrawMulti",
@@ -70,34 +70,4 @@
        "outputItem": "scrap/10",
        "category": "power"
       }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
