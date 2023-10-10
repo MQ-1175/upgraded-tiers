@@ -9,10 +9,6 @@
           "suffix": "-bottom"    
          },
         {
-          "type": "DrawLiquidRegion",
-          "drawLiquid": "water"
-        },
-        {
           "type": "DrawRegion",
           "suffix": "-spinner-2",
           "rotateSpeed": 4,
