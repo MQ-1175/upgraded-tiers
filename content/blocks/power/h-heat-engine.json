@@ -33,7 +33,8 @@
         {
           "type": "DrawDefault"
         }
-      ],
+      ]
+    },
       "generateEffect": {
           "particles": 1,
           "length": 55,
@@ -74,5 +75,5 @@
        "hasLiquids": true,
        "outputItem": "scrap/10",
        "category": "power"
-      }
+      
 }
