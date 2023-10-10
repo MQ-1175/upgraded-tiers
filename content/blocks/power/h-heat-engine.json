@@ -1,5 +1,5 @@
 {
-     "type": "VariableReactor",
+     "type": "ConsumeReactor",
      "health": 1900,
      "drawer": {
           "type": "DrawMulti",
