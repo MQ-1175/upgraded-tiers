@@ -47,12 +47,12 @@
       "power": 6,
       "items": {
         "items": [
-          {"item": "sand", "amount": 1}
+          {"item": "sand", "amount": 5}
         ]
       },
       "liquid": {
         "liquid": "water",
-        "amount": 0.4
+        "amount": 0.8
       }
     },
     "category": "production",

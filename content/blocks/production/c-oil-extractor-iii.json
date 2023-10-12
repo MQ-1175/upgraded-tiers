@@ -1,7 +1,7 @@
 {
     "type": "AttributeCrafter",
     "health": 900,
-    "outputLiquid": "oil/1.4",
+    "outputLiquid": "oil/1.5",
     "baseEfficiency": 0,
     "drawer": {
       "type": "DrawMulti",
@@ -48,12 +48,12 @@
       "power": 15,
       "items": {
         "items": [
-          {"item": "sand", "amount": 1}
+          {"item": "sand", "amount": 8}
         ]
       },
       "liquid": {
         "liquid": "water",
-        "amount": 0.4
+        "amount": 2
       }
     },
     "category": "production",
