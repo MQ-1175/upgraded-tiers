@@ -53,7 +53,7 @@
       },
       "liquid": {
         "liquid": "water",
-        "amount": 2
+        "amount": 1.2
       }
     },
     "category": "production",
