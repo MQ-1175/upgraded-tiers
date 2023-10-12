@@ -1,18 +1,49 @@
 {	
-  "type": "SolidPump",
+  "type": "AttributeCrafter",
   "size": 4,
-    "liquidCapacity":100,
-    "rotateSpeed": 2.2,
-    "pumpAmount": 1.5,
-    "consumes": {"power": 5.5},
+  "hasLiquids": true,
+  "minEfficiency": 0.1,
+  "boostScale": 0.05,
+  "liquidCapacity": 100,
+  "hasPower": true,
+  "consumes": {"power": 5.5},
 	"outputsLiquid": true,
     "attribute":"water",
+    "drawer": {
+      "type": "DrawMulti",
+      "drawers": [
+      {
+      "type": "DrawDefault"   
+      },
+      {
+      "type": "DrawLiquidRegion",
+      "drawLiquid": "water"
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-rotator-1",
+        "rotateSpeed": 5,
+        "spinSprite": true
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-rotator-2",
+        "rotateSpeed": 2,
+        "spinSprite": true
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-top"
+      }
+                 ]
+  
+  },
 	"requirements": [
         "lead/160",
         "plastanium/140",
-        "silicon/80",
-        "metaglass/80",
-        "surge-alloy/70"
+        "silicon/90",
+        "metaglass/90",
+        "surge-alloy/85"
 	],
 	"category": "production",
 	"research": "a-water-extractor-ii"

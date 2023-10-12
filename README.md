@@ -9,6 +9,4 @@
 
 
 # Todo list:
-- Reworking production (drills) blocks
-- Tier 2 - 3 power blocks balance
-- Some slight addition in power lists
+- Tier 2 - 3 production blocks balance

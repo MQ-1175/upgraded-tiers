@@ -1,7 +1,7 @@
 {
     "type": "AttributeCrafter",
-    "health": 590,
-    "outputLiquid": "oil/0.8",
+    "health": 900,
+    "outputLiquid": "oil/1.4",
     "baseEfficiency": 0,
     "drawer": {
       "type": "DrawMulti",
@@ -28,23 +28,24 @@
   },
     "size": 5,
     "requirements": [
-      "silicon/175",
-      "titanium/180",
-      "lead/150",
-      "thorium/150",
-      "surge-alloy/70"
+      "silicon/375",
+      "titanium/300",
+      "lead/350",
+      "thorium/250",
+      "plastanium/150",
+      "surge-alloy/90"
     ],
     "hasPower": true,
     "hasLiquids": true,
     "hasItems": true,
-    "itemCapacity": 15,
+    "itemCapacity": 35,
     "minEfficiency": 0.1,
-    "boostScale": 0.05,
+    "boostScale": 0.07,
     "craftTime":90,
-    "liquidCapacity": 50,
+    "liquidCapacity": 70,
     "attribute": "oil",
     "consumes": {
-      "power": 6,
+      "power": 15,
       "items": {
         "items": [
           {"item": "sand", "amount": 1}
@@ -52,7 +53,7 @@
       },
       "liquid": {
         "liquid": "water",
-        "amount": 0.15
+        "amount": 0.4
       }
     },
     "category": "production",

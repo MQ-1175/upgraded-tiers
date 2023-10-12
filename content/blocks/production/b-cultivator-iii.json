@@ -8,8 +8,8 @@
       "surge-alloy/150",
       "phase-fabric/150"
     ],
-    "outputItem": "spore-pod/8",
-    "craftTime": 120,
+    "outputItem": "spore-pod/10",
+    "craftTime": 100,
     "size": 4,
     "liquidCapacity":200,
     "hasLiquids": true,
@@ -37,14 +37,10 @@
           "drawLiquid": "water"
         },
         {
-          "type": "DrawDefault" 
-        },
-        {
           "type": "DrawCultivator"
         },
         {
-          "type": "DrawRegion",
-          "suffix": "-top"
+          "type": "DrawDefault" 
         }
       ]
     },

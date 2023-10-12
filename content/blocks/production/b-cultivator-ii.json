@@ -7,8 +7,8 @@
       "silicon/85",
       "thorium/75"
     ],
-    "outputItem": "spore-pod/3",
-    "craftTime": 100,
+    "outputItem": "spore-pod/6",
+    "craftTime": 60,
     "size": 3,
     "liquidCapacity":70,
     "hasLiquids": true,
