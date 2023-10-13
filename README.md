@@ -10,3 +10,9 @@
 
 # Todo list:
 - Tier 2 - 3 production blocks balance
+
+
+
+## Contributors:
+- theworldzen: Russian translation
+- thebildeo: Korean translation (outdated)
