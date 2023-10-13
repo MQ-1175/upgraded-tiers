@@ -16,13 +16,7 @@
       {
         "type": "DrawRegion",
         "suffix": "-rotator",
-        "rotateSpeed": 3,
-        "spinSprite": true
-      },
-      {
-        "type": "DrawRegion",
-        "suffix": "-rotator",
-        "rotateSpeed": 2,
+        "rotateSpeed": 5,
         "spinSprite": true
       },
       {
