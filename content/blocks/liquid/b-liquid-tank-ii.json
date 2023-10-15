@@ -2,7 +2,7 @@
   "type": "LiquidRouter",
   "size": 4, 
   "liquidCapacity": 4000,
-  "health": 1000,
+  "health": 2000,
   "requirements": [
     "titanium/100",
     "metaglass/100",

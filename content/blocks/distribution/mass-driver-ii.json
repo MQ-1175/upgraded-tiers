@@ -5,7 +5,12 @@
   "range":600,
   "reload": 300,
   "hasPower":true,
-  "consumes": {"power": 5},
+  "consumes": {"power": 5,
+  "liquid": {
+    "liquid": "cryofluid",
+    "amount": 0.2
+  }
+},
   "requirements": [
         "plastanium/170",
         "titanium/200",
