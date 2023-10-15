@@ -4,6 +4,7 @@
   "itemCapacity": 500,
   "range": 900,
   "reload": 150,
+  "hasPower":true,
   "consumePower": 5,
   "requirements": [
         "plastanium/380",
