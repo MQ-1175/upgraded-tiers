@@ -3,7 +3,7 @@
   "size": 4, 
   "itemCapacity": 400,
   "range":600,
-  "reload": 180,
+  "reload": 300,
   "hasPower":true,
   "consumes": {"power": 5},
   "requirements": [
