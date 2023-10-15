@@ -5,7 +5,7 @@
   "range":600,
   "reload": 180,
   "hasPower":true,
-  "consumePower": 5,
+  "consumes": {"power": 5},
   "requirements": [
         "plastanium/170",
         "titanium/200",

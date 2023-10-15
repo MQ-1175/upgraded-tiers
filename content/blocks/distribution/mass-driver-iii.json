@@ -5,7 +5,7 @@
   "range": 900,
   "reload": 150,
   "hasPower":true,
-  "consumePower": 5,
+  "consumes": {"power": 11},
   "requirements": [
         "plastanium/380",
         "surge-alloy/300",
