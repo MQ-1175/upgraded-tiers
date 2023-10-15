@@ -1,0 +1,17 @@
+{	
+  "type": "MassDriver",
+  "size": 5, 
+  "itemCapacity": 500,
+  "range": 900,
+  "reload": 150,
+  "consumePower": 5,
+  "requirements": [
+        "plastanium/380",
+        "surge-alloy/300",
+        "silicon/475",
+        "phase-fabric/300",
+        "thorium/450"
+	],
+	"category": "distribution",
+	"research": "mass-driver-ii"
+}
