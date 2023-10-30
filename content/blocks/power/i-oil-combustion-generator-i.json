@@ -8,11 +8,11 @@
       "type": "RadialEffect",
       "amount": 16,
       "rotationSpacing": 45,
-      "lengthOffset": 10,
+      "lengthOffset": 8,
       "effect": {
         "particles": 1,
         "length": 140,
-        "lifetime": 240,
+        "lifetime": 200,
         "cone": 11,
         "baseRotation": 35,
         "useRotation": false,
