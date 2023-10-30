@@ -5,6 +5,10 @@
     "powerProduction": 3,
     "ambientSound": "steam",
     "generateEffect":{
+      "type": "RadialEffect",
+      "amount": 8,
+      "lengthOffset": 8,
+      "effect": {
         "particles": 1,
         "length": 50,
         "lifetime": 240,
@@ -12,10 +16,12 @@
         "baseRotation": 15,
         "sizeFrom": 0,
         "sizeTo": 4,
-        "colorTo": "3c383700",
+        "colorFrom": 78787866,
+        "colorTo": 78787800,
         "sizeInterp": "pow2Out",
         "interp": "pow2Out"
-      },
+      }
+    },
     "drawer": {
       "type": "DrawMulti",
       "drawers": [

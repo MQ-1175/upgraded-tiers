@@ -12,7 +12,8 @@
         "baseRotation": 15,
         "sizeFrom": 0,
         "sizeTo": 5,
-        "colorTo": "3c383700",
+        "colorFrom": 78787866,
+        "colorTo": 78787800,
         "sizeInterp": "pow2Out",
         "interp": "pow2Out"
       },
