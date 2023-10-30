@@ -8,7 +8,7 @@
       "type": "RadialEffect",
       "amount": 16,
       "rotationSpacing": 45,
-      "lengthOffset": 8,
+      "lengthOffset": 12,
       "effect": {
         "particles": 1,
         "length": 90,
@@ -17,9 +17,9 @@
         "baseRotation": 35,
         "useRotation": false,
         "sizeFrom": 0,
-        "sizeTo": 10,
-        "colorFrom": 78787888,
-        "colorTo": 78787800,
+        "sizeTo": 9,
+        "colorFrom": 787878,
+        "colorTo": 787878,
         "sizeInterp": "pow2Out",
         "interp": "pow2Out"
       }
