@@ -7,17 +7,18 @@
     "generateEffect":{
       "type": "RadialEffect",
       "amount": 16,
-      "rotationSpacing": 15,
+      "rotationSpacing": 45,
       "lengthOffset": 8,
       "effect": {
         "particles": 1,
-        "length": 50,
+        "length": 140,
         "lifetime": 240,
         "cone": 11,
         "baseRotation": 15,
+        "useRotation": false,
         "sizeFrom": 0,
         "sizeTo": 4,
-        "colorFrom": 78787866,
+        "colorFrom": 78787888,
         "colorTo": 78787800,
         "sizeInterp": "pow2Out",
         "interp": "pow2Out"
