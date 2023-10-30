@@ -2,11 +2,7 @@
 
 - Mindustry mod that adds higher tier of existing vanilla blocks and some small additions
 ## Current content
-- Tier 2-3 crafters
-- Tier 2-3 power blocks
-- Tier 2-3 production blocks
-
-
+- Tier 2-3 blocks for Serpulo's contents.
 
 # Todo list:
 - Erekir contents
