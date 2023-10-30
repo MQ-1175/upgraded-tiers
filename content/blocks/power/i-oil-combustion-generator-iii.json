@@ -1,0 +1,50 @@
+{
+    "type": "ConsumeGenerator",
+    "size": 3,
+    "hasPower": true,
+    "powerProduction": 26,
+    "ambientSound": "steam",
+    "generateEffect":{
+        "particles": 1,
+        "length": 50,
+        "lifetime": 350,
+        "cone": 18,
+        "baseRotation": 15,
+        "sizeFrom": 0,
+        "sizeTo": 5,
+        "colorTo": "3c383700",
+        "sizeInterp": "pow2Out",
+        "interp": "pow2Out"
+      },
+    "drawer": {
+      "type": "DrawMulti",
+      "drawers": [
+        {
+          "type": "drawRegion",
+          "suffix": "-bottom"    
+          },  
+       {
+          "type": "DrawLiquidTile",
+          "drawLiquid": "oil"
+        },
+        {
+          "type": "DrawDefault"
+        }
+      ]
+    },
+    "consumes": {
+      "liquid": {
+        "liquid": "oil",
+        "amount": 0.8
+    }
+    },
+    "category": "power",
+    "research":"i-oil-combustion-generator-ii",
+    "requirements": [
+        "surge-alloy/180",
+        "thorium/190",
+		"silicon/200",
+		"plastanium/150",
+        "metaglass/175"
+    ]
+    }

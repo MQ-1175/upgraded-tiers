@@ -1,0 +1,54 @@
+{
+    "type": "ConsumeGenerator",
+    "size": 2,
+    "hasPower": true,
+    "powerProduction": 5,
+    "ambientSound": "steam",
+    "generateEffect":{
+        "particles": 1,
+        "length": 50,
+        "lifetime": 240,
+        "cone": 11,
+        "baseRotation": 15,
+        "sizeFrom": 0,
+        "sizeTo": 4,
+        "colorTo": "3c383700",
+        "sizeInterp": "pow2Out",
+        "interp": "pow2Out"
+      },
+    "drawer": {
+      "type": "DrawMulti",
+      "drawers": [
+        {
+          "type": "drawRegion",
+          "suffix": "-bottom"    
+          },  
+       {
+          "type": "DrawLiquidTile",
+          "drawLiquid": "oil"
+        },
+        {
+          "type": "DrawDefault"
+        }
+      ]
+    },
+    "consumes": {
+      "liquid": {
+        "liquid": "oil",
+        "amount": 0.15
+    }
+    },
+    "category": "power",
+    "research": {
+        "parent": "steam-generator",
+        "objectives": [
+          "thermal-generator"
+        ]
+      },
+    "requirements": [
+        "lead/30",
+		"silicon/40",
+		"titanium/30",
+        "metaglass/25"
+    ]
+    }
