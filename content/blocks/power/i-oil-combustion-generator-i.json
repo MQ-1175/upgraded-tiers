@@ -10,8 +10,8 @@
       "rotationSpacing": 45,
       "effect": {
         "particles": 1,
-        "length": 120,
-        "lifetime": 100,
+        "length": 70,
+        "lifetime": 400,
         "cone": 11,
         "baseRotation": 35,
         "useRotation": false,
