@@ -6,7 +6,8 @@
     "ambientSound": "steam",
     "generateEffect":{
       "type": "RadialEffect",
-      "amount": 8,
+      "amount": 16,
+      "rotationSpacing": 15,
       "lengthOffset": 8,
       "effect": {
         "particles": 1,
