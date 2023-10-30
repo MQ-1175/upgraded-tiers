@@ -5,18 +5,24 @@
     "powerProduction": 20,
     "ambientSound": "steam",
     "generateEffect":{
+      "type": "RadialEffect",
+      "amount": 20,
+      "rotationSpacing": 45,
+      "effect": {
         "particles": 1,
-        "length": 50,
-        "lifetime": 350,
-        "cone": 18,
-        "baseRotation": 15,
+        "length": 80,
+        "lifetime": 440,
+        "cone": 11,
+        "baseRotation": 35,
+        "useRotation": false,
         "sizeFrom": 0,
-        "sizeTo": 5,
-        "colorFrom": 78787866,
+        "sizeTo": 14,
+        "colorFrom": 787878,
         "colorTo": 78787800,
         "sizeInterp": "pow2Out",
         "interp": "pow2Out"
-      },
+      }
+    },
     "drawer": {
       "type": "DrawMulti",
       "drawers": [
