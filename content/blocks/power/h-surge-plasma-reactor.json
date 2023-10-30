@@ -8,12 +8,12 @@
     "explodeEffect": "impactReactorExplosion",
     "explodeSound": "explosionbig",
 
-    "powerProduction": 400,
+    "powerProduction": 500,
     "itemCapacity": 30,
     "liquidCapacity": 40,
     "explosionRadius": 50,
     "explosionDamage": 1000,
-    "itemDuration": 200,
+    "itemDuration": 300,
     "drawer": {
       "type": "DrawMulti",
       "drawers": [
