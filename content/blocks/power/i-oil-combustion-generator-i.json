@@ -11,7 +11,7 @@
       "lengthOffset": 8,
       "effect": {
         "particles": 1,
-        "length": 140,
+        "length": 90,
         "lifetime": 200,
         "cone": 11,
         "baseRotation": 35,
