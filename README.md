@@ -1,6 +1,6 @@
-# More Than Vanilla
+# Blocks Extension Mod
 
-- Mindustry mod that adds higher tier of existing vanilla blocks.
+- Mindustry mod that adds higher tier of existing vanilla blocks and some small additions
 ## Current content
 - Tier 2-3 crafters
 - Tier 2-3 power blocks
@@ -9,7 +9,7 @@
 
 
 # Todo list:
-- Tier 2 - 3 production blocks balance
+- Erekir contents
 
 
 

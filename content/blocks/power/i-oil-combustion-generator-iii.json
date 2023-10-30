@@ -1,8 +1,8 @@
 {
     "type": "ConsumeGenerator",
-    "size": 3,
+    "size": 4,
     "hasPower": true,
-    "powerProduction": 26,
+    "powerProduction": 20,
     "ambientSound": "steam",
     "generateEffect":{
         "particles": 1,
@@ -35,11 +35,16 @@
     "consumes": {
       "liquid": {
         "liquid": "oil",
-        "amount": 0.8
+        "amount": 0.10
     }
     },
     "category": "power",
-    "research":"i-oil-combustion-generator-ii",
+    "research": {
+        "parent": "i-oil-combustion-generator-ii",
+        "objectives": [
+          "c-burner-generator"
+        ]
+      },
     "requirements": [
         "surge-alloy/180",
         "thorium/190",

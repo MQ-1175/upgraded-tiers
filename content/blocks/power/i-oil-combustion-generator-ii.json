@@ -2,7 +2,7 @@
     "type": "ConsumeGenerator",
     "size": 3,
     "hasPower": true,
-    "powerProduction": 12,
+    "powerProduction": 9,
     "ambientSound": "steam",
     "generateEffect":{
         "particles": 1,
@@ -35,11 +35,11 @@
     "consumes": {
       "liquid": {
         "liquid": "oil",
-        "amount": 0.3
+        "amount": 0.6
     }
     },
     "category": "power",
-    "research":"i-oil-combustion-generator",
+    "research":"i-oil-combustion-generator-i",
     "requirements": [
         "lead/65",
 		"silicon/60",
