@@ -2,8 +2,8 @@
   "type": "MassDriver",
   "size": 4, 
   "itemCapacity": 400,
-  "range":600,
-  "reload": 300,
+  "range":500,
+  "reload": 500,
   "hasPower":true,
   "consumes": {"power": 5,
   "liquid": {
