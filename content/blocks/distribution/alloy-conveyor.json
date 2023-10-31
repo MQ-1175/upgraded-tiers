@@ -10,6 +10,11 @@
       "silicon/2",
       "plastanium/2"
     ],
-    "research": "plastanium-conveyor",
+    "research": {
+      "parent": "plastanium-conveyor",
+      "objectives": [
+        "desolateRift"
+      ]
+    },
     "category": "distribution"
   }
