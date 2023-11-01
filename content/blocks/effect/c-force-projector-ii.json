@@ -25,8 +25,8 @@
         "items": [
           "phase-fabric/1"  
         ],
-        "booster": true,
-        "optional": true
+        "booster": false,
+        "optional": false
       }
     },
     "requirements": [
