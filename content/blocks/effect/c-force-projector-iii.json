@@ -13,6 +13,7 @@
     "canOverdrive": true,
     "phaseUseTime": 420,
     "phaseRadiusBoost": 90,
+    "phaseShieldBoost": 450,
     "solid": true,
     "radius": 200,
     "cooldownNormal": 3.5,
