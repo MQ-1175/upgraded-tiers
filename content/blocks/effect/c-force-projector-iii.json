@@ -5,6 +5,7 @@
     "size": 5,
     "sides":12,
     "liquidCapacity": 40,
+    "shieldRotation":45,
     "hasPower": true,
     "canOverdrive": true,
     "phaseUseTime": 420,
@@ -18,8 +19,7 @@
       "power": 25,
       "items": {
         "items": [
-          "phase-fabric/5",
-          "surge-alloy/5"    
+          "phase-fabric/5"
         ],
         "booster": true,
         "optional": true
