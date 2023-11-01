@@ -1,0 +1,36 @@
+{
+    "type": "ForceProjector",
+    "health": 800,
+    "shieldHealth": 1000,
+    "size": 4,
+    "sides":8,
+    "liquidCapacity": 30,
+    "hasPower": true,
+    "canOverdrive": true,
+    "phaseUseTime": 400,
+    "phaseRadiusBoost": 90,
+    "solid": true,
+    "radius": 150,
+    "cooldownNormal": 2,
+    "cooldownLiquid": 1,
+    "cooldownBrokenBase": 1.75,
+    "consumes": {
+      "power": 12,
+      "items": {
+        "items": [
+          "phase-fabric/1",
+          "surge-alloy/1"    
+        ],
+        "booster": true,
+        "optional": true
+      }
+    },
+    "requirements": [
+      "titanium/650",
+      "silicon/600",
+      "plastanium/450",
+      "phase-fabric/400"
+    ],
+    "category": "effect",
+    "research": "force-projector"
+  }

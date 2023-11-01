@@ -5,7 +5,7 @@
 - Tier 2-3 blocks for Serpulo's contents.
 
 # Todo list:
-- Erekir contents
+- Erekir contents and some minor Serpulo content additions
 
 
 

@@ -3,14 +3,16 @@ displayName: Blocks Extension Mod
 author: mq_1175
 description:
   '''
-What's the mod about? Well you guess it, this mod adds in 1 or 2 higher tiers of vanilla blocks, and only a slightest of addition. If you aren't interested in mods that has unioriginal contents, this mod might not suit you.
-Mod is still in development, so expect some strangely unbalanced content. More contents coming soon.
+- What's the mod about? Well you guess it, this mod adds in 1 or 2 higher tiers of vanilla blocks, and only a slightest of addition. If you aren't interested in mods that has unioriginal contents, this mod might not suit you.
+- Mod is still in development, so expect some strangely unbalanced content. More contents coming soon.
+- Important: The mod is lacking translation if you want to help me make one check the github repo.
+
 
 Contributors:
 - theworldzen: Russian translation
 - thebildeo: Korean translation (outdated)
   '''
-version: 1.7
-subtitle: "v1.7 Alpha"
+version: 1.8
+subtitle: "v1.8 Beta"
 minGameVersion: 146
 hideBrowser: false
