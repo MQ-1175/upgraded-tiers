@@ -12,10 +12,8 @@
     "hasLiquid": true,
     "canOverdrive": true,
     "phaseUseTime": 400,
-    "phaseRadiusBoost": 90,
-    "phaseShieldBoost": 350,
     "solid": true,
-    "radius": 150,
+    "radius": 200,
     "cooldownNormal": 2,
     "cooldownLiquid": 1,
     "cooldownBrokenBase": 1.75,
@@ -23,9 +21,9 @@
       "power": 12,
       "items": {
         "items": [
-          "phase-fabric/1"  
+          "phase-fabric/1",
+          "surge/alloy/1"
         ],
-        "booster": true,
         "optional": false
       }
     },
