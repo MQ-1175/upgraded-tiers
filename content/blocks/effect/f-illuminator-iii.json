@@ -1,16 +1,16 @@
 {
     "type":"LightBlock",
     "size":3,
-    "brightness": 1,
-    "radius": 700,
+    "brightness": 0.75,
+    "radius": 450,
     "buildVisibility":"lightingOnly",
     "consumes": {"power": 0.5},
     "research":"f-illuminator-ii",
     "category": "effect",
     "requirements": [
-        "surge-alloy/40",
-        "silicon/30",
+        "surge-alloy/20",
+        "silicon/40",
         "thorium/30",
-        "plastanium/35"
+        "plastanium/25"
       ]
 }
