@@ -1,0 +1,14 @@
+{
+    "type":"LightBlock",
+    "brightness": 1,
+    "radius": 700,
+    "buildVisibility":"lightingOnly",
+    "consumes": {"power": 0.5},
+    "research":"f-illuminator-ii",
+    "requirements": [
+        "surge-alloy/40",
+        "silicon/30",
+        "thorium/30",
+        "plastanium/35"
+      ]
+}

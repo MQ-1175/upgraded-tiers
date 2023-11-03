@@ -1,0 +1,14 @@
+{
+    "type":"LightBlock",
+    "brightness": 0.8,
+    "radius": 300,
+    "buildVisibility":"lightingOnly",
+    "consumes": {"power": 0.15},
+    "research":"illuminator",
+    "requirements": [
+        "graphite/30",
+        "silicon/20",
+        "lead/20",
+        "plastanium/15"
+      ]
+}
