@@ -52,10 +52,7 @@
         "type": "SectorComplete",
         "preset": "planetaryTerminal"
     },
-    {
-      "type": "Research",
-      "content": "g-thorium-reactor-iii"
-  }
+    "g-thorium-reactor-iii"
     ]
   },
     "requirements": [
