@@ -21,7 +21,7 @@
         "rotate":true,
         "x": -5,
         "y": 2,
-        "top": false,
+        "top": true,
         "shoot": {
             "type": "shootPattern",
             "shots": 3,
@@ -44,7 +44,7 @@
     {
         "name": "a-upsilon-weapon2",
         "reload": 12,
-        "top": false,
+        "top": true,
         "mirror": false,
         "y":-1,
         "shoot": {
