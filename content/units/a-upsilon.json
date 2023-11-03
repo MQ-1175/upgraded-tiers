@@ -46,6 +46,7 @@
         "reload": 12,
         "top": false,
         "mirror": false,
+        "y":-1,
         "shoot": {
             "type": "shootPattern",
             "shots": 3,
