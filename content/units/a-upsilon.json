@@ -64,7 +64,7 @@
             "homingRange":60,
             "weaveScale": 6,
             "weaveMag": 1.1,
-            "damage": 18,
+            "damage": 16,
             "speed": 3,
             "width": 8,
             "height": 8,
@@ -74,6 +74,7 @@
 			"trailColor": "ffb855",
 			"hitEffect": "blastExplosion",
 			"despawnEffect": "blastExplosion",
+            "buildingDamageMultiplier": 0.01,
 			"shootEffect": "shootBig",
 			"smokeEffect": "shootSmallSmoke"
         }
