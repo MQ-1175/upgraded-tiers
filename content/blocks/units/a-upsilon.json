@@ -1,5 +1,6 @@
 {
 "type": "flying",
+"flying": true,
 "mineSpeed": 10,
 "tier":4,
 "speed": 4.05,
@@ -8,6 +9,8 @@
 "itemCapacity": 120,
 "health": 400,
 "rotateSpeed": 21,
+"armor": 1,
+"buildSpeed": 1.25,
 "engineOffset":7,
 "hitsize":18,
 "weapons": [
