@@ -1,7 +1,7 @@
 {
 "flying": true,
 "mineSpeed": 10,
-"aiController": "BuilderAI",
+"defaultController": "BuilderAI",
 "mineTier":4,
 "speed": 4.05,
 "accel": 0.125,
