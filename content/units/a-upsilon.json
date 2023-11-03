@@ -3,7 +3,6 @@
 "mineSpeed": 10,
 "aiController": "BuilderAI",
 "mineTier":4,
-"isEnemy": false,
 "speed": 4.05,
 "accel": 0.125,
 "drag": 0.0625,
