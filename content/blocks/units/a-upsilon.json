@@ -5,6 +5,7 @@
 "defaultController": "BuilderAI",
 "mineTier":4,
 "isEnemy": false,
+"canAttack": false,
 "speed": 4.05,
 "accel": 0.125,
 "drag": 0.0625,
