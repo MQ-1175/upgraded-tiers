@@ -5,6 +5,7 @@
     "buildVisibility":"lightingOnly",
     "consumes": {"power": 0.5},
     "research":"f-illuminator-ii",
+    "category": "effect",
     "requirements": [
         "surge-alloy/40",
         "silicon/30",
