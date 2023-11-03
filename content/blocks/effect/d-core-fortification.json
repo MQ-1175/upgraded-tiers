@@ -1,0 +1,27 @@
+{
+    "type": "CoreBlock",
+    "health": 15000,
+    "size": 6,
+    "itemCapacity": 20000,
+    "unitCapModifier": 36,
+    "researchCostMultiplier": 0.06,
+    "unitType": "a-upsilon",
+    "requirements": [
+      "copper14000",
+      "lead/14000",
+      "titanium/12000",
+      "thorium/11000",
+      "silicon/15000",
+      "plastanium/13000",
+      "surge-alloy/11000",
+      "phase-fabric/10000"
+    ],
+    "category": "effect",
+    "alwaysUnlocked": true,
+    "research": {
+        "parent": "core-nucleus",
+        "objectives": [
+          "planetaryTerminal"
+        ]
+      }
+  }
