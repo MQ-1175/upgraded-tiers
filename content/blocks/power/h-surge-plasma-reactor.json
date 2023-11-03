@@ -56,11 +56,13 @@
     ]
   },
     "requirements": [
-      "titanium/750",
-      "surge-alloy/750",
-      "silicon/750",
-      "plastanium/180",
-      "phase-fabric/600" 
+      "titanium/950",
+      "surge-alloy/950",
+      "silicon/950",
+      "plastanium/900",
+      "phase-fabric/800",
+      "surge-alloy/900",
+      "metaglass/800"
     ]  
     }
     

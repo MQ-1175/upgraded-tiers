@@ -41,9 +41,9 @@
 	"requirements": [
         "lead/160",
         "plastanium/140",
-        "silicon/90",
-        "metaglass/90",
-        "surge-alloy/85"
+        "silicon/100",
+        "metaglass/120",
+        "surge-alloy/100"
 	],
 	"category": "production",
   "outputLiquid": "water/1.1",
