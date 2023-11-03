@@ -18,7 +18,8 @@
         "name": "a-upsilon-weapon1",
         "reload": 12,
         "mirror": true,
-        "x": 5,
+        "rotate":true,
+        "x": -5,
         "y": 2,
         "top": false,
         "shoot": {
@@ -44,6 +45,7 @@
         "name": "a-upsilon-weapon2",
         "reload": 12,
         "top": false,
+        "mirror": false,
         "shoot": {
             "type": "shootPattern",
             "shots": 3,
