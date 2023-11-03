@@ -7,7 +7,7 @@
     "researchCostMultiplier": 0.06,
     "unitType": "a-upsilon",
     "requirements": [
-      "copper14000",
+      "copper/14000",
       "lead/14000",
       "titanium/12000",
       "thorium/11000",
