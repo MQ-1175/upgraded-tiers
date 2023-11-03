@@ -5,6 +5,7 @@
     "itemCapacity": 20000,
     "unitCapModifier": 36,
     "researchCostMultiplier": 0.06,
+    "thrusterLength": 15,
     "unitType": "a-upsilon",
     "requirements": [
       "copper/14000",
