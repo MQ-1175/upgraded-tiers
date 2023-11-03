@@ -17,7 +17,7 @@
 "weapons": [
     {
         "name": "a-upsilon-weapon1",
-        "reload": 12,
+        "reload": 30,
         "mirror": true,
         "rotate":true,
         "x": -5,
@@ -33,20 +33,21 @@
         "bullet": {
             "type": "BasicBulletType",
             "homingPower": 0.1,
-            "damage": 15,
-            "speed": 5.5,
+            "damage": 10,
+            "speed": 4,
             "width": 8,
             "height": 13,
 			"shootEffect": "shootSmall",
 			"smokeEffect": "shootSmallSmoke",
-            "lifetime": 80
+            "lifetime": 75
         }
     },
     {
         "name": "a-upsilon-weapon2",
-        "reload": 12,
+        "reload": 30,
         "top": true,
         "mirror": false,
+        "inaccuracy": 4,
         "x":0,
         "y":-2,
         "shoot": {
@@ -63,11 +64,11 @@
             "homingRange":60,
             "weaveScale": 6,
             "weaveMag": 1.1,
-            "damage": 22,
-            "speed": 5.5,
+            "damage": 18,
+            "speed": 3,
             "width": 8,
             "height": 8,
-            "lifetime": 80,
+            "lifetime": 60,
             "frontColor": "fff8e8",
 			"backColor": "f9c27a",
 			"trailColor": "ffb855",
