@@ -1,8 +1,5 @@
 {
-"flying": true,
 "mineSpeed": 10,
-"type":"flying",
-"defaultController": "FlyingAI",
 "mineTier":4,
 "isEnemy": false,
 "canAttack": false,
@@ -17,6 +14,8 @@
 "buildSpeed": 1.25,
 "engineOffset":7,
 "hitsize":18,
+"flying": true,
+"defaultController": "BuilderAI",
 "weapons": [
     {
         "name": "a-upsilon-weapon1",
