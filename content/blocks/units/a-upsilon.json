@@ -1,0 +1,73 @@
+{
+"type": "flying",
+"mineSpeed": 10,
+"tier":4,
+"speed": 4.05,
+"accel": 0.125,
+"drag": 0.0625,
+"itemCapacity": 120,
+"health": 400,
+"rotateSpeed": 21,
+"engineOffset":7,
+"hitsize":18,
+"weapons": [
+    {
+        "name": "a-upsilon-weapon1",
+        "reload": 12,
+        "mirror": true,
+        "x": 5,
+        "y": 2,
+        "top": false,
+        "shoot": {
+            "type": "shootPattern",
+            "shots": 3,
+            "shotDelay": 2
+          },
+		"shootY": 2,
+        "ejectEffect": "casing3",
+        "bullet": {
+            "type": "BasicBulletType",
+            "homingPower": 0.1,
+            "damage": 15,
+            "speed": 5.5,
+            "width": 8,
+            "height": 13,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+            "lifetime": 80
+        }
+    },
+    {
+        "name": "a-upsilon-weapon2",
+        "reload": 12,
+        "top": false,
+        "shoot": {
+            "type": "shootPattern",
+            "shots": 3,
+            "shotDelay": 4
+          },
+		"shootY": 3,
+        "ejectEffect": "none",
+        "shootSound": "missile",
+        "bullet": {
+            "type": "MissileBulletType",
+            "homingPower": 0.1,
+            "homingRange":60,
+            "weaveScale": 6,
+            "weaveMag": 1.1,
+            "damage": 22,
+            "speed": 5.5,
+            "width": 8,
+            "height": 8,
+            "lifetime": 80,
+            "frontColor": "fff8e8",
+			"backColor": "f9c27a",
+			"trailColor": "ffb855",
+			"hitEffect": "blastExplosion",
+			"despawnEffect": "blastExplosion",
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootSmallSmoke"
+        }
+    }
+]
+}
