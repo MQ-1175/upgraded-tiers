@@ -21,8 +21,8 @@
         "reload": 35,
         "mirror": true,
         "rotate":true,
-        "x": -6,
-        "y": 3,
+        "x": -7.25,
+        "y": 2,
         "top": true,
         "shoot": {
             "type": "shootPattern",
@@ -50,7 +50,7 @@
         "mirror": false,
         "inaccuracy": 4,
         "x":0,
-        "y":-1.8,
+        "y":-1.9,
         "shoot": {
             "type": "shootPattern",
             "shots": 3,
