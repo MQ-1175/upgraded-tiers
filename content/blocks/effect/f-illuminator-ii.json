@@ -1,5 +1,6 @@
 {
     "type":"LightBlock",
+    "size":2,
     "brightness": 0.8,
     "radius": 300,
     "buildVisibility":"lightingOnly",
