@@ -54,7 +54,7 @@
     },
     {
       "type": "Research",
-      "preset": "g-thorium-reactor-iii"
+      "content": "g-thorium-reactor-iii"
   }
     ]
   },
