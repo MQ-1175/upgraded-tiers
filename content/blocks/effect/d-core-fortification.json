@@ -21,7 +21,11 @@
     "research": {
         "parent": "core-nucleus",
         "objectives": [
-          "planetaryTerminal"
+          {
+            "type": "SectorCaptureObjective",
+            "sector": 0,
+            "planet": "serpulo"
+        }
         ]
       }
   }
