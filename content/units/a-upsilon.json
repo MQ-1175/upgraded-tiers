@@ -5,6 +5,7 @@
 "mineTier":4,
 "speed": 4.05,
 "accel": 0.125,
+"lowAltitude": true,
 "drag": 0.0625,
 "itemCapacity": 120,
 "health": 400,
@@ -45,7 +46,6 @@
         "name": "a-upsilon-weapon2",
         "reload": 12,
         "top": true,
-        "mirror": false,
         "y":-1,
         "shoot": {
             "type": "shootPattern",
