@@ -23,8 +23,7 @@
         "objectives": [
           {
             "type": "SectorCaptureObjective",
-            "sector": 0,
-            "planet": "serpulo"
+            "preset": "planetaryTerminal"
         }
         ]
       }
