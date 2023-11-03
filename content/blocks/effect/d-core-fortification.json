@@ -18,7 +18,6 @@
       "phase-fabric/10000"
     ],
     "category": "effect",
-    "alwaysUnlocked": true,
     "research": {
         "parent": "core-nucleus",
         "objectives": [
