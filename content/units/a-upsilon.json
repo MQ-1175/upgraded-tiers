@@ -17,7 +17,7 @@
 "weapons": [
     {
         "name": "a-upsilon-weapon1",
-        "reload": 30,
+        "reload": 35,
         "mirror": true,
         "rotate":true,
         "x": -5,
@@ -44,7 +44,7 @@
     },
     {
         "name": "a-upsilon-weapon2",
-        "reload": 30,
+        "reload": 40,
         "top": true,
         "mirror": false,
         "inaccuracy": 4,
