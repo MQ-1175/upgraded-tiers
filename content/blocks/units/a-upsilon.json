@@ -1,7 +1,7 @@
 {
 "flying": true,
 "mineSpeed": 10,
-"tier":4,
+"mineTier":4,
 "speed": 4.05,
 "accel": 0.125,
 "drag": 0.0625,
