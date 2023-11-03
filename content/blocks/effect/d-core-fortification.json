@@ -22,7 +22,7 @@
         "parent": "core-nucleus",
         "objectives": [
           {
-            "type": "SectorCaptureObjective",
+            "type": "SectorComplete",
             "preset": "planetaryTerminal"
         }
         ]

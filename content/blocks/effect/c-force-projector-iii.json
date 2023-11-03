@@ -39,8 +39,10 @@
     "research": {
         "parent": "c-force-projector-ii",
         "objectives": [
-          "core-nucleus",
-          "planetaryTerminal"
+          {
+            "type": "SectorComplete",
+            "preset": "planetaryTerminal"
+        }
         ]
       }
   }

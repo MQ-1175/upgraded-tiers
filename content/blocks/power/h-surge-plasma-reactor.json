@@ -48,8 +48,14 @@
       "research": {
     "parent": "impact-reactor",
     "objectives": [
-      "g-thorium-reactor-iii",
-      "planetaryTerminal"
+      {
+        "type": "SectorComplete",
+        "preset": "planetaryTerminal"
+    },
+    {
+      "type": "Research",
+      "preset": "g-thorium-reactor-iii"
+  }
     ]
   },
     "requirements": [
