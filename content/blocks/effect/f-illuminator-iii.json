@@ -2,12 +2,14 @@
     "type":"LightBlock",
     "size":3,
     "brightness": 0.75,
+    "hasItems": true,
+    "itemCapacity": 10,
     "radius": 450,
     "buildVisibility":"lightingOnly",
     "consumes": {"power": 0.5,
     "items": {
 			"items": [
-                "surge-alloy/2"            
+                "silicon/1"            
  			]
 	  }
   },
