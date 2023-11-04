@@ -10,7 +10,6 @@
     "requirements": [
         "graphite/30",
         "silicon/20",
-        "lead/20",
-        "plastanium/15"
+        "titanium/20"
       ]
 }

@@ -16,7 +16,6 @@
     "research":"f-illuminator-ii",
     "category": "effect",
     "requirements": [
-        "surge-alloy/20",
         "silicon/40",
         "thorium/30",
         "plastanium/25"
