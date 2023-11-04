@@ -4,7 +4,13 @@
     "brightness": 0.75,
     "radius": 450,
     "buildVisibility":"lightingOnly",
-    "consumes": {"power": 0.5},
+    "consumes": {"power": 0.5,
+    "items": {
+			"items": [
+                "surge-alloy/2"            
+ 			]
+	  }
+  },
     "research":"f-illuminator-ii",
     "category": "effect",
     "requirements": [

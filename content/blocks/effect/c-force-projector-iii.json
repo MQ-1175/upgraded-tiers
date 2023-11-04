@@ -21,8 +21,9 @@
       "power": 25,
       "items": {
         "items": [
-          "phase-fabric/5",
-          "surge-alloy/5"
+          "phase-fabric/4",
+          "surge-alloy/4",
+          "silicon/4"
         ],
         "optional": false
       }

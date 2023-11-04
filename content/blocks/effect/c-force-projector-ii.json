@@ -22,7 +22,8 @@
       "items": {
         "items": [
           "phase-fabric/1",
-          "surge-alloy/1"
+          "surge-alloy/1",
+          "silicon/1"
         ],
         "optional": false
       }

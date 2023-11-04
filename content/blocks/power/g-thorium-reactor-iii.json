@@ -14,7 +14,8 @@
 	"heating": 0.02,
 	"consumes": {
 			"items": [
-                "thorium/13"
+                "thorium/13",
+				"phase-fabric/8"
 			],
             "liquid": {
                 "liquid": "cryofluid",
