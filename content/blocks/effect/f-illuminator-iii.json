@@ -3,9 +3,8 @@
     "size":3,
     "brightness": 0.75,
     "hasItems": true,
-    "itemCapacity": 10,
+    "itemCapacity": 1,
     "radius": 450,
-    "itemUseTime": 40,
     "buildVisibility":"lightingOnly",
     "consumes": {"power": 0.5,
     "items": {
