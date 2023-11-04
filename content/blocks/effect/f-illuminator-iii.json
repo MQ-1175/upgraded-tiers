@@ -5,6 +5,7 @@
     "hasItems": true,
     "itemCapacity": 10,
     "radius": 450,
+    "craftTime": 40,
     "buildVisibility":"lightingOnly",
     "consumes": {"power": 0.5,
     "items": {
