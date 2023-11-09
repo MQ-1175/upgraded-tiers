@@ -2,16 +2,9 @@
     "type":"LightBlock",
     "size":3,
     "brightness": 0.75,
-    "hasItems": true,
-    "itemCapacity": 1,
     "radius": 450,
     "buildVisibility":"lightingOnly",
-    "consumes": {"power": 0.5,
-    "items": {
-			"items": [
-                "silicon/1"            
- 			]
-	  }
+    "consumes": {"power": 0.5
   },
     "research":"f-illuminator-ii",
     "category": "effect",
