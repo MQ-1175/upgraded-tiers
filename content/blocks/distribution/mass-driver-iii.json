@@ -2,8 +2,10 @@
   "type": "MassDriver",
   "size": 5, 
   "itemCapacity": 500,
-  "range": 800,
+  "range": 1500,
   "reload": 1000,
+  "bulletLifetime": 500,
+  "bulletSpeed": 10,
   "hasPower":true,
   "consumes": {"power": 11,
   "liquid": {

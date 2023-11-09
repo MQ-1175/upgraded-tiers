@@ -3,7 +3,8 @@
     "health": 2000,
     "size": 5,
     "launchTime": 1500,
-    "itemCapacity": 500,
+    "itemCapacity": 700,
+    "category": "effect",
     "buildVisibility":"campaignOnly",
     "consumes": {
         "power": 35,
