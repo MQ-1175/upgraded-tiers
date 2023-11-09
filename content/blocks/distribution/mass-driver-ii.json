@@ -2,7 +2,7 @@
   "type": "MassDriver",
   "size": 4, 
   "itemCapacity": 400,
-  "range":500,
+  "range":800,
   "reload": 500,
   "hasPower":true,
   "consumes": {"power": 5,
