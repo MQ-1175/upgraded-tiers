@@ -3,7 +3,7 @@
   "size": 5, 
   "itemCapacity": 500,
   "range": 1300,
-  "reload": 900,
+  "reload": 750,
   "bulletLifetime": 500,
   "bulletSpeed": 10,
   "hasPower":true,
