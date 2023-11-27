@@ -25,6 +25,9 @@
   },
   {
     "type": "DrawDefault"
+  },
+  {
+    "type": "DrawLiquidOutputs"
   }
                ]
 
@@ -49,6 +52,7 @@
 			"amount": 1.7
 		}
 	},
+  "rotate":true,
 	"requirements": [
         "lead/225",
         "titanium/250",
