@@ -1,18 +1,16 @@
 name: morevanilla
-displayName: Upgraded Content
+displayName: Upgraded Content (v2.0 Update)
 author: mq_1175
 description:
   '''
-- What's the mod about? Well you guess it, this mod adds in 1 or 2 higher tiers of vanilla blocks, and only a slightest of addition. If you aren't interested in mods that has unioriginal contents, this mod might not suit you.
-- Mod is still in development, so expect some strangely unbalanced content. More contents coming soon.
-- Important: The mod is lacking translation if you want to help me make one check the github repo.
-
-
+- What's the mod about? Well you guess it, this mod adds in 1 or 2 higher tiers of vanilla blocks. Mod is still in development. More contents coming soon.
+- Important: The mod is lacking translation if you want to help me make one check the github repository.
+- Changelog and mod content lists available on github repository.
 Contributors:
 - theworldzen: Russian translation
 - thebildeo: Korean translation (outdated)
   '''
-version: 1.8
-subtitle: "v1.9 Beta"
+version: 2.0
+subtitle: "v2.0"
 minGameVersion: 146
 hideBrowser: false
