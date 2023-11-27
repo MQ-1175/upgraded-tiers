@@ -5,8 +5,8 @@
     "consumes": {
       "powerBuffered": 8000
     },
-    "research": "battery",
     "category": "defense",
+    "research": "titanium-wall-large",
     "requirements": [
       "copper/40",
       "titanium/40"

@@ -13,6 +13,12 @@
         "power": 4
     },
     "consumesPower" :true,
+    "research": {
+        "parent": "surge-wall-large",
+        "objectives": [
+        "phase-wall-large"
+        ]
+      },
     "requirements": [
         "surge-alloy/50",
         "phase-fabric/60",

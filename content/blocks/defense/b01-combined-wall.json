@@ -5,12 +5,24 @@
     "buildCostMultiplier": 0.15,
     "absorbLasers":true,
     "reload": 180,
-    "range": 24,
-    "healPercent": 10,
+    "range": 20,
+    "healPercent": 4,
+    "conductivePower":true,
+    "phaseBoost": 0,
+    "phaseRangeBoost": 0,
+    "consumes": {
+    "power": 0.15
+                },
     "requirements": [
         "thorium/48",
-        "plastanium/50"
+        "plastanium/50",
+        "metaglass/30"
     ],
     "category": "defense",
-    "research": "mend-projector"
+    "research": {
+        "parent": "plastanium-wall-large",
+        "objectives": [
+        "thorium-wall-large"
+        ]
+      }
     }

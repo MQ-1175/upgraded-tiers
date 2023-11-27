@@ -13,6 +13,7 @@
         "power": 6
     },
     "consumesPower" :true,
+    "research": "c01-combined-wall",
     "requirements": [
         "surge-alloy/130",
         "phase-fabric/150",

@@ -5,12 +5,19 @@
     "buildCostMultiplier": 0.15,
     "absorbLasers":true,
     "reload": 160,
-    "range": 40,
-    "healPercent": 12,
+    "range": 32,
+    "phaseBoost": 0,
+    "phaseRangeBoost": 0,
+    "conductivePower":true,
+    "consumes": {
+    "power": 0.2
+                },
+    "healPercent": 8,
     "requirements": [
         "thorium/90",
-        "plastanium/96"
+        "plastanium/96",
+        "metaglass/90"
     ],
     "category": "defense",
-    "research": "mend-projector"
+    "research": "b01-combined-wall"
     }

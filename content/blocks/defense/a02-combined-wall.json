@@ -5,7 +5,7 @@
     "consumes": {
       "powerBuffered": 16000
     },
-    "research": "battery",
+    "research": "a01-combined-wall",
     "category": "defense",
     "requirements": [
       "copper/75",
