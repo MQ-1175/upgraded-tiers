@@ -1,0 +1,16 @@
+{
+    "type": "mendProjector",
+    "health": 5000,
+    "size": 3,
+    "buildCostMultiplier": 0.15,
+    "absorbLasers":true,
+    "reload": 180,
+    "range": 24,
+    "healPercent": 10,
+    "requirements": [
+        "thorium/48",
+        "plastanium/50"
+    ],
+    "category": "defense",
+    "research": "mend-projector"
+    }

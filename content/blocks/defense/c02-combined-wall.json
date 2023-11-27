@@ -1,0 +1,21 @@
+{
+    "type": "ShieldWall",
+    "flashHit": true,
+    "size": 4,
+    "health": 18000,
+    "shieldHealth":4000,
+    "conductivePower":true,
+    "chanceDeflect": 18,
+    "lightningChance": 0.06,
+    "lightningDamage": 40,
+    "category": "defense",
+    "consumes": {
+        "power": 6
+    },
+    "consumesPower" :true,
+    "requirements": [
+        "surge-alloy/130",
+        "phase-fabric/150",
+        "silicon/120"
+	]
+  }

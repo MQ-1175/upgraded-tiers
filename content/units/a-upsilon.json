@@ -40,6 +40,7 @@
             "height": 13,
 			"shootEffect": "shootSmall",
 			"smokeEffect": "shootSmallSmoke",
+            "buildingDamageMultiplier": 0.01,
             "lifetime": 75
         }
     },

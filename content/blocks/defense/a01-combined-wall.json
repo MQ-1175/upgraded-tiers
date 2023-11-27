@@ -1,0 +1,14 @@
+{
+    "type": "battery",
+    "size": 3,
+    "health":3500,
+    "consumes": {
+      "powerBuffered": 8000
+    },
+    "research": "battery",
+    "category": "defense",
+    "requirements": [
+      "copper/40",
+      "titanium/40"
+    ]
+    }
