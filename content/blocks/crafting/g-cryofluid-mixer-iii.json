@@ -34,6 +34,7 @@
 },
 	"hasPower": true,
 	"hasItems": true,
+  "regionRotated1": 3,
 	"itemCapacity": 40,
         "liquidCapacity":80,
 	"craftTime": 200,
