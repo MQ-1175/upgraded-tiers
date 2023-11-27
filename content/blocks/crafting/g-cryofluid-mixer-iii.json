@@ -34,7 +34,8 @@
 },
 	"hasPower": true,
 	"hasItems": true,
-  "regionRotated1": 3,
+  "rotateDraw": false,  
+  "rotate":true,
 	"itemCapacity": 40,
         "liquidCapacity":80,
 	"craftTime": 200,
@@ -53,7 +54,6 @@
 			"amount": 1.7
 		}
 	},
-  "rotate":true,
 	"requirements": [
         "lead/225",
         "titanium/250",
