@@ -8,6 +8,7 @@
 + Defense: Combined walls - Direct upgrades to 2 specific types of vanilla walls. Has 3 tier with different special uses for each tier.
 ![](image-1.png)
 + Power: Oil Combustion Generator - Use oil as the only input to produce power, however slightly less effective than vanilla coal combustion.
+
 ![](image-2.png)
 
 ## Current content
