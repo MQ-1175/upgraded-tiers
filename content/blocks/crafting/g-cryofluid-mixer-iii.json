@@ -58,8 +58,8 @@
         "titanium/250",
         "silicon/250",
         "plastanium/150",
-        "metaglass/100",
-        "surge-alloy/100"
+        "metaglass/175",
+        "surge-alloy/200"
 	],
 	"category": "crafting",
 	"research": "g-cryofluid-mixer-ii",
