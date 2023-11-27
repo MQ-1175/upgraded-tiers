@@ -40,8 +40,8 @@
             "surge-alloy/5"
         ],
     "liquid": {
-        "liquid": "cryofluid",
-        "amount": 0.8
+        "liquid": "antifreeze",
+        "amount": 0.9
     }
     },
     "category": "power",
@@ -61,7 +61,6 @@
       "silicon/950",
       "plastanium/900",
       "phase-fabric/800",
-      "surge-alloy/900",
       "metaglass/800"
     ]  
     }

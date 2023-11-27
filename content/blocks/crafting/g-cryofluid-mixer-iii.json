@@ -59,5 +59,9 @@
 	],
 	"category": "crafting",
 	"research": "g-cryofluid-mixer-ii",
-	"outputLiquid": "cryofluid/1.7"
+	"outputLiquids": [
+    "cryofluid/1.5",
+    "antifreeze/1.2"
+  ],
+  "liquidOutputDirections": [1, 3]
 }

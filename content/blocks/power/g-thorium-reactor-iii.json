@@ -18,7 +18,7 @@
 				"phase-fabric/8"
 			],
             "liquid": {
-                "liquid": "cryofluid",
+                "liquid": "antifreeze",
                 "amount": 0.6
             }
 	},
