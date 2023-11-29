@@ -22,3 +22,13 @@
 ## Contributors:
 - theworldzen: Russian translation
 - thebildeo: Korean translation (outdated)
+
+
+# Note to self about content sorting:
+1a - Crafting
+2a - Defense
+3a - Effect
+4a - Distribution
+5a - Liquid
+6a - Power
+7a - Drill / Production
