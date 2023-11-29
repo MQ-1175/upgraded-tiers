@@ -30,9 +30,9 @@
     ],
     "category": "power",
     "research": {
-      "parent": "e-rtg-generator-ii",
+      "parent": "6a-e-rtg-generator-ii",
       "objectives": [
-        "g-thorium-reactor-ii"
+        "6a-g-thorium-reactor-ii"
       ]
     },
     "loopSound": "hum",

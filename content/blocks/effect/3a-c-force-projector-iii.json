@@ -38,7 +38,7 @@
     ],
     "category": "effect",
     "research": {
-        "parent": "c-force-projector-ii",
+        "parent": "3a-c-force-projector-ii",
         "objectives": [
           {
             "type": "SectorComplete",

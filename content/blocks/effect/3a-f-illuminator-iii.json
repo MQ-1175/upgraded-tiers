@@ -6,7 +6,7 @@
     "buildVisibility":"lightingOnly",
     "consumes": {"power": 0.5
   },
-    "research":"f-illuminator-ii",
+    "research":"3a-f-illuminator-ii",
     "category": "effect",
     "requirements": [
         "silicon/40",

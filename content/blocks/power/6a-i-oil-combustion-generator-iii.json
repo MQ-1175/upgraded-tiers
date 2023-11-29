@@ -47,9 +47,9 @@
     },
     "category": "power",
     "research": {
-        "parent": "i-oil-combustion-generator-ii",
+        "parent": "6a-i-oil-combustion-generator-ii",
         "objectives": [
-          "c-burner-generator"
+          "6a-c-burner-generator"
         ]
       },
     "requirements": [

@@ -46,7 +46,7 @@
     }
     },
     "category": "power",
-    "research":"i-oil-combustion-generator-i",
+    "research":"6a-i-oil-combustion-generator-i",
     "requirements": [
         "lead/65",
 		"silicon/60",
