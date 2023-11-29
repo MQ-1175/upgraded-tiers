@@ -4,6 +4,5 @@
     "heatCapacity": 1.5,
     "flammability":0,
     "effect": "freezing",
-    "color": "8a73c6",
-    "lightColor": "000000"
+    "color": "8a73c6"
   }
