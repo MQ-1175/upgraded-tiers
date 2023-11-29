@@ -42,14 +42,14 @@
     "consumes": {
       "liquid": {
         "liquid": "oil",
-        "amount": 0.3
+        "amount": 0.2
     }
     },
     "category": "power",
     "research": {
         "parent": "steam-generator",
         "objectives": [
-          "thermal-generator"
+          "differential-generator"
         ]
       },
     "requirements": [

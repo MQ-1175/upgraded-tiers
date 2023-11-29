@@ -2,7 +2,7 @@
     "type": "ConsumeGenerator",
     "size": 4,
     "hasPower": true,
-    "powerProduction": 20,
+    "powerProduction": 18,
     "ambientSound": "steam",
     "generateEffect":{
       "type": "RadialEffect",
@@ -42,7 +42,7 @@
     "consumes": {
       "liquid": {
         "liquid": "oil",
-        "amount": 0.10
+        "amount": 0.9
     }
     },
     "category": "power",
