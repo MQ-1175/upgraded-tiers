@@ -63,7 +63,7 @@
         "surge-alloy/200"
 	],
 	"category": "crafting",
-	"research": "g-cryofluid-mixer-ii",
+	"research": "1a-g-cryofluid-mixer-ii",
 	"outputLiquids": [
     "cryofluid/1.5",
     "antifreeze/1.2"

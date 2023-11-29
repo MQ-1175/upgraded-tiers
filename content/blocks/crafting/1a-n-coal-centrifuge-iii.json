@@ -27,6 +27,6 @@
         "plastanium/120"
 	],
 	"category": "crafting",
-	"research": "n-coal-centrifuge-ii",
+	"research": "1a-n-coal-centrifuge-ii",
 	"outputItem": "coal/15"
 }

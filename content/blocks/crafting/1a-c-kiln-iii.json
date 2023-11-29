@@ -42,6 +42,6 @@
         "plastanium/80"
 	],
 	"category": "crafting",
-	"research": "c-kiln-ii",
+	"research": "1a-c-kiln-ii",
 	"outputItem": "metaglass/18"
 }
