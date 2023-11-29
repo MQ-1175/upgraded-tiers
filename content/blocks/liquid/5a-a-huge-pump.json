@@ -4,7 +4,9 @@
   "liquidCapacity": 100,
   "pumpAmount": 0.6,
   "hasPower":true,
-  "consumePower": 6,
+  "consumes": {
+		"power": 6
+	},
   "requirements": [
     "titanium/170",
     "metaglass/200",
