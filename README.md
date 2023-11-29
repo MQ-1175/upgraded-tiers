@@ -20,7 +20,7 @@ Russian Translation might also be broken for a while
 - Serpulo turrets category
 
 # Mod Compatibility
-- Advance Lightning mod now works with this mod content
+- Advance Lightning mod now works with some of this mod content.
 
 
 ## Contributors:

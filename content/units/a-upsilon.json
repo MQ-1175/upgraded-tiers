@@ -9,6 +9,7 @@
 "drag": 0.0625,
 "itemCapacity": 120,
 "health": 400,
+"fogRadius":0,
 "rotateSpeed": 21,
 "armor": 1,
 "buildSpeed": 1.25,
