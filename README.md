@@ -6,7 +6,6 @@
 + Liquid: Antifreeze - Tier 2 coolant. Used for turrets and certain power reactors. 
 + Defense: Combined walls - Direct upgrades to 2 specific types of vanilla walls. Has 3 tier with different special uses for each tier.
 + Power: Oil Combustion Generator - Use oil as the only input to produce power, however slightly less effective than vanilla coal combustion.
-
 # Sorting Update: 
 Due to the changes in content name for the sake of sorting the blocks properly, all previous updates will end up really broken. Apologize.
 Russian Translation might also be broken for a while
@@ -19,6 +18,10 @@ Russian Translation might also be broken for a while
 # Todo list:
 - Erekir contents
 - Serpulo turrets category
+
+# Mod Compatibility
+- Advance Lightning mod now works with this mod content
+
 
 ## Contributors:
 - theworldzen: Russian translation

@@ -29,7 +29,7 @@
         },
         {
         "type": "DrawLiquidRegion",
-        "drawLiquid": "cryofluid"
+        "drawLiquid": "antifreeze"
         }
       ]
     },
