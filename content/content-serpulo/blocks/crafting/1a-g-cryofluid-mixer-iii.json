@@ -51,7 +51,7 @@
 	  },
       "liquid": {
 			"liquid": "water",
-			"amount": 1.7
+			"amount": 2.5
 		}
 	},
 	"requirements": [
@@ -70,7 +70,7 @@
     ]
   },
 	"outputLiquids": [
-    "cryofluid/1.5",
+    "cryofluid/1.3",
     "antifreeze/1.2"
   ],
   "liquidOutputDirections": [1, 3]
