@@ -51,6 +51,11 @@
     "surge-alloy/150"
 	],
 	"category": "crafting",
-	"research": "1a-f-surge-smelter-ii",
-	"outputItem": "surge-alloy/15"
+    "research": {
+        "parent": "1a-f-surge-smelter-ii",
+        "objectives": [
+          "desolateRift"
+        ]
+      },
+	"outputItem": "surge-alloy/18"
 }

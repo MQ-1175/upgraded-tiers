@@ -63,7 +63,12 @@
         "surge-alloy/200"
 	],
 	"category": "crafting",
-	"research": "1a-g-cryofluid-mixer-ii",
+  "research": {
+    "parent": "1a-g-cryofluid-mixer-ii",
+    "objectives": [
+      "desolateRift"
+    ]
+  },
 	"outputLiquids": [
     "cryofluid/1.5",
     "antifreeze/1.2"
