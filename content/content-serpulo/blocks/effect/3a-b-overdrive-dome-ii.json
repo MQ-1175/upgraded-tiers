@@ -29,5 +29,13 @@
     "surge-alloy/550"
 	],
 	"category": "effect",
-"research": "overdrive-dome"
+"research": {
+    "parent": "overdrive-dome",
+    "objectives": [
+      {
+        "type": "SectorComplete",
+        "preset": "planetaryTerminal"
+    }
+    ]
+  }
 }
