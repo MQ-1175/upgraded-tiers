@@ -9,6 +9,7 @@
     "lightningChance": 0.06,
     "lightningDamage": 30,
     "category": "defense",
+    "envDisabled": 16,
     "consumes": {
         "power": 4
     },
