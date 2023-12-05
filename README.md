@@ -8,7 +8,6 @@
 + Power: Oil Combustion Generator - Use oil as the only input to produce power, however slightly less effective than vanilla coal combustion.
 # Sorting Update: 
 Due to the changes in content name for the sake of sorting the blocks properly, all previous updates will end up really broken. Apologize.
-Russian Translation might also be broken for a while
 
 
 ## Current content

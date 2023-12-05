@@ -16,7 +16,7 @@
  "optional": false
  } 
 },
-"speedBoost": 5,
+"speedBoost": 4.75,
 "hasBoost":false,
 "speedBoostPhase": 0,
 "requirements": [
@@ -34,7 +34,7 @@
     "objectives": [
       {
         "type": "SectorComplete",
-        "preset": "planetaryTerminal"
+        "preset": "desolateRift"
     }
     ]
   }
