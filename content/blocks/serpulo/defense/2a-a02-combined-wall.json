@@ -1,0 +1,12 @@
+{
+    "type": "Wall",
+    "size": 4,
+    "health":7100,
+    "research": "2a-a01-combined-wall",
+    "category": "defense",
+    "requirements": [
+      "copper/90",
+      "lead/85",
+      "titanium/80"
+    ]
+    }

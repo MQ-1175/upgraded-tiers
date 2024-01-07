@@ -1,0 +1,56 @@
+{
+    "type": "ConsumeGenerator",
+    "size": 3,
+    "hasPower": true,
+    "powerProduction": 8,
+    "ambientSound": "steam",
+    "generateEffect":{
+      "type": "RadialEffect",
+      "amount": 18,
+      "rotationSpacing": 45,
+      "effect": {
+        "particles": 1,
+        "length": 90,
+        "lifetime": 440,
+        "cone": 11,
+        "baseRotation": 35,
+        "useRotation": false,
+        "sizeFrom": 0,
+        "sizeTo": 12,
+        "colorFrom": 787878,
+        "colorTo": 78787800,
+        "sizeInterp": "pow2Out",
+        "interp": "pow2Out"
+      }
+    },
+    "drawer": {
+      "type": "DrawMulti",
+      "drawers": [
+        {
+          "type": "drawRegion",
+          "suffix": "-bottom"    
+          },  
+       {
+          "type": "DrawLiquidTile",
+          "drawLiquid": "oil"
+        },
+        {
+          "type": "DrawDefault"
+        }
+      ]
+    },
+    "consumes": {
+      "liquid": {
+        "liquid": "oil",
+        "amount": 0.4
+    }
+    },
+    "category": "power",
+    "research":"6a-i-oil-combustion-generator-i",
+    "requirements": [
+        "lead/65",
+		"silicon/60",
+		"plastanium/50",
+        "metaglass/60"
+    ]
+    }

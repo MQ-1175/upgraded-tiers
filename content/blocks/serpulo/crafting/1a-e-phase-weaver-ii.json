@@ -1,0 +1,52 @@
+{	
+"type": "GenericCrafter",
+"size": 3,
+"drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+   {
+    "type": "drawRegion",
+    "suffix": "-bottom"    
+   },
+   {
+    "type": "DrawWeave"
+   },
+   {
+   "type": "DrawDefault"
+   }
+               ]
+          },
+"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 30,
+        "liquidCapacity": 30,
+	"craftTime": 180,
+	"craftEffect": "smeltsmoke",
+	"updateEffect": "none",
+    "ambientSound": "techloop",
+    "ambientSoundVolume": 0.03,
+	"consumes": {
+		"power": 8,
+		"items": {
+			"items": [
+               "sand/18",
+               "thorium/10"
+			]
+		},
+       "liquid": {
+			"liquid": "cryofluid",
+			"amount": 0.2
+		}
+	},
+	"requirements": [
+     "silicon/200",
+    "titanium/200",
+    "lead/250",
+    "plastanium/100",
+    "thorium/250",
+    "phase-fabric/80"
+	],
+	"category": "crafting",
+	"research": "phase-weaver",
+	"outputItem": "phase-fabric/4"
+}

@@ -1,0 +1,18 @@
+{
+    "type": "PowerNode",
+    "size": 4,
+    "health": 950,
+    "laserRange": 110,
+    "maxNodes": 7,
+    "hasPower": true,
+    "category": "power",
+    "requirements": [
+        "silicon/250",
+        "titanium/200",
+        "lead/275",
+        "surge-alloy/190",
+        "plastanium/200",
+        "phase-fabric/180"
+    ],
+    "research": "6a-a-surge-tower-ii"
+  }

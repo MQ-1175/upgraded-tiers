@@ -1,0 +1,36 @@
+{
+	"type": "NuclearReactor",
+	"health": 6200,
+	"itemCapacity": 45,
+	"liquidCapacity": 45,
+	"size": 5,
+	"ambientSound": "hum",
+	"ambientSoundVolume": 0.35,
+    "explosionRadius": 24,
+    "explosionDamage": 4000,
+	"hasLiquids": true,
+	"powerProduction": 100,
+	"itemDuration": 320,
+	"heating": 0.02,
+	"consumes": {
+			"items": [
+                "thorium/13",
+				"phase-fabric/8"
+			],
+            "liquid": {
+                "liquid": "antifreeze",
+                "amount": 0.6
+            }
+	},
+	"requirements": [
+        "lead/600",
+		"silicon/500",
+		"metaglass/550",
+		"thorium/500",
+        "plastanium/350",
+        "surge-alloy/375",
+        "phase-fabric/350"
+	],
+	"category": "power",
+	"research": "6a-g-thorium-reactor-ii"
+}

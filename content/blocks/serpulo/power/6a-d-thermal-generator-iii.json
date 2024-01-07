@@ -1,0 +1,20 @@
+{
+    "type": "ThermalGenerator",
+    "size": 4,
+    "powerProduction": 5,
+    "generateEffect": "redgeneratespark",
+    "floating": true,
+    "ambientSound": "hum",
+    "boostScale": 0.15,
+    "maxBoost": 2,
+    "ambientSoundVolume": 0.5,
+    "requirements": [
+      "lead/500",
+      "silicon/450",
+      "thorium/475",
+      "plastanium/400",
+      "surge-alloy/450"
+    ],
+    "category": "power",
+    "research": "6a-d-thermal-generator-ii"
+}

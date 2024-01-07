@@ -1,0 +1,16 @@
+
+{
+	"type": "SolarGenerator",
+	"size": 4,
+	"hasPower": true,
+	"powerProduction": 3.5,
+	"requirements": [
+		"lead/175",
+		"silicon/200",
+		"phase-fabric/100",
+		"surge-alloy/80"
+	],
+	"category": "power",
+	"research": "solar-panel-large"
+    
+}

@@ -1,0 +1,54 @@
+{	
+  "type": "GenericCrafter",
+  "size": 3,
+"drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+ {
+    "type": "drawRegion",
+    "suffix": "-bottom"    
+    },  
+ {
+    "type": "DrawLiquidTile",
+    "drawLiquid": "water"
+  },
+  {
+    "type": "DrawLiquidTile",
+    "drawLiquid": "cryofluid",
+    "drawLiquidLight": true
+  },
+  {
+    "type": "DrawDefault"
+  }
+               ]
+
+},
+	"hasPower": true,
+	"hasItems": true,
+  "liquidCapacity": 40,
+	"itemCapacity": 25,
+	"craftTime": 150,
+	"outputsLiquid": true,
+	"consumes": {
+		"power": 3,
+		"items": {
+			"items": [
+                "titanium/5",
+                "lead/4"            
+ 			]
+	  },
+      "liquid": {
+			"liquid": "water",
+			"amount": 0.6
+		}
+	},
+	"requirements": [
+        "metaglass/100",
+        "titanium/150",
+        "silicon/125",
+        "plastanium/110"
+	],
+	"category": "crafting",
+	"research": "cryofluid-mixer",
+	"outputLiquid": "cryofluid/0.6"
+}

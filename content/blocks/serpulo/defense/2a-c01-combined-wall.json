@@ -1,0 +1,28 @@
+{
+    "type": "ShieldWall",
+    "flashHit": true,
+    "size": 3,
+    "health": 8300,
+    "shieldHealth":1200,
+    "conductivePower":true,
+    "chanceDeflect": 12,
+    "lightningChance": 0.06,
+    "lightningDamage": 30,
+    "category": "defense",
+    "envDisabled": 16,
+    "consumes": {
+        "power": 4
+    },
+    "consumesPower" :true,
+    "research": {
+        "parent": "surge-wall-large",
+        "objectives": [
+        "phase-wall-large"
+        ]
+      },
+    "requirements": [
+        "surge-alloy/60",
+        "phase-fabric/60",
+        "silicon/65"
+	]
+  }

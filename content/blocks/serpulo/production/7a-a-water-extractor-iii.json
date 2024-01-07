@@ -1,0 +1,51 @@
+{	
+  "type": "AttributeCrafter",
+  "size": 4,
+  "hasLiquids": true,
+  "minEfficiency": 0.1,
+  "boostScale": 0.05,
+  "liquidCapacity": 100,
+  "hasPower": true,
+  "consumes": {"power": 5.5},
+	"outputsLiquid": true,
+    "attribute":"water",
+    "drawer": {
+      "type": "DrawMulti",
+      "drawers": [
+      {
+      "type": "DrawDefault"   
+      },
+      {
+      "type": "DrawLiquidRegion",
+      "drawLiquid": "water"
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-rotator-1",
+        "rotateSpeed": 5,
+        "spinSprite": true
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-rotator-2",
+        "rotateSpeed": 2,
+        "spinSprite": true
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-top"
+      }
+                 ]
+  
+  },
+	"requirements": [
+        "lead/160",
+        "plastanium/140",
+        "silicon/100",
+        "metaglass/120",
+        "surge-alloy/100"
+	],
+	"category": "production",
+  "outputLiquid": "water/1.3",
+	"research": "7a-a-water-extractor-ii"
+}

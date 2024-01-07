@@ -1,0 +1,61 @@
+{
+    "type": "ConsumeGenerator",
+    "size": 2,
+    "hasPower": true,
+    "powerProduction": 3,
+    "ambientSound": "steam",
+    "generateEffect":{
+      "type": "RadialEffect",
+      "amount": 16,
+      "rotationSpacing": 45,
+      "effect": {
+        "particles": 1,
+        "length": 70,
+        "lifetime": 400,
+        "cone": 11,
+        "baseRotation": 35,
+        "useRotation": false,
+        "sizeFrom": 0,
+        "sizeTo": 9,
+        "colorFrom": 787878,
+        "colorTo": 78787800,
+        "sizeInterp": "pow2Out",
+        "interp": "pow2Out"
+      }
+    },
+    "drawer": {
+      "type": "DrawMulti",
+      "drawers": [
+        {
+          "type": "drawRegion",
+          "suffix": "-bottom"    
+          },  
+       {
+          "type": "DrawLiquidTile",
+          "drawLiquid": "oil"
+        },
+        {
+          "type": "DrawDefault"
+        }
+      ]
+    },
+    "consumes": {
+      "liquid": {
+        "liquid": "oil",
+        "amount": 0.2
+    }
+    },
+    "category": "power",
+    "research": {
+        "parent": "steam-generator",
+        "objectives": [
+          "differential-generator"
+        ]
+      },
+    "requirements": [
+        "lead/30",
+		"silicon/40",
+		"titanium/30",
+        "metaglass/25"
+    ]
+    }

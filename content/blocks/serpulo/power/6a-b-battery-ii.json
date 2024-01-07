@@ -1,0 +1,14 @@
+{
+"type": "battery",
+"size": 2,
+"health":120,
+"consumes": {
+  "powerBuffered": 20000
+},
+"research": "battery",
+"category": "power",
+"requirements": [
+  "lead/40",
+  "graphite/25"
+]
+}

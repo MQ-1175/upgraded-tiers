@@ -1,0 +1,41 @@
+{
+"type": "OverdriveProjector",
+"health": 1200,
+"size": 4,
+"range": 300,
+"itemCapacity": 25,
+"consumes": { 
+"power": 30,
+"items": {
+ "items": [
+  "silicon/2",
+  "phase-fabric/2",
+  "surge-alloy/2"
+  ],
+ "booster": false,
+ "optional": false
+ } 
+},
+"speedBoost": 4.75,
+"hasBoost":false,
+"speedBoostPhase": 0,
+"requirements": [
+	"lead/750",
+    "silicon/600",
+	"graphite/700",
+	"plastanium/600",
+    "phase-fabric/550",
+	"titanium/700",
+    "surge-alloy/550"
+	],
+	"category": "effect",
+"research": {
+    "parent": "overdrive-dome",
+    "objectives": [
+      {
+        "type": "SectorComplete",
+        "preset": "desolateRift"
+    }
+    ]
+  }
+}

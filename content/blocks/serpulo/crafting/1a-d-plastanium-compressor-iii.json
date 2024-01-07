@@ -1,0 +1,56 @@
+{	
+"type": "GenericCrafter",
+"size": 4,
+"drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+   {
+    "type": "drawRegion",
+    "suffix": "-bottom"    
+   },  
+   {
+    "type": "DrawLiquidTile",
+    "drawLiquid": "oil"
+   },
+   {
+    "type": "DrawDefault"
+   },
+   {
+    "type": "DrawFade"
+   }	
+               ]
+          },
+"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 45,
+        "liquidCapacity": 80,
+	"craftTime": 240,
+	"craftEffect": "formsmoke",
+	"updateEffect": "plasticburn",
+	"consumes": {
+		"power": 9,
+		"items": {
+			"items": [
+               "titanium/15",
+               "spore-pod/10",
+               "lead/12"
+			]
+		},
+       "liquid": {
+			"liquid": "oil",
+			"amount": 1.2
+		}
+	},
+	"requirements": [
+        "lead/300",
+        "graphite/150",
+        "metaglass/120",
+        "titanium/300",
+        "silicon/300",
+        "plastanium/120",
+        "surge-alloy/90"
+	],
+	"category": "crafting",
+	"research": "1a-d-plastanium-compressor-ii",
+	"outputItem": "plastanium/20"
+}

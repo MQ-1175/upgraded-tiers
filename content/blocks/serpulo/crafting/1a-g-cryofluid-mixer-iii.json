@@ -1,0 +1,77 @@
+{	
+  "type": "GenericCrafter",
+  "size": 4,
+"drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+  {
+    "type": "drawRegion",
+    "suffix": "-bottom"    
+    },
+  {
+    "type": "DrawLiquidTile",
+    "drawLiquid": "water"
+  },
+  {
+    "type": "DrawLiquidTile",
+    "drawLiquid": "cryofluid",
+    "drawLiquidLight": true
+  },
+   {
+    "type": "DrawRegion",
+    "suffix": "-spinner",
+    "rotateSpeed": 3,
+    "spinSprite": true
+  },
+  {
+    "type": "DrawDefault"
+  },
+  {
+    "type": "DrawLiquidOutputs"
+  }
+               ]
+
+},
+	"hasPower": true,
+	"hasItems": true,
+  "rotateDraw": false,  
+  "rotate":true,
+	"itemCapacity": 40,
+        "liquidCapacity":80,
+	"craftTime": 200,
+	"outputsLiquid": true,
+	"consumes": {
+		"power": 7,
+		"items": {
+			"items": [
+                "titanium/15",
+                "lead/16",
+                "silicon/10"            
+ 			]
+	  },
+      "liquid": {
+			"liquid": "water",
+			"amount": 2.5
+		}
+	},
+	"requirements": [
+        "lead/225",
+        "titanium/250",
+        "silicon/250",
+        "plastanium/150",
+        "metaglass/175",
+        "surge-alloy/200"
+	],
+	"category": "crafting",
+  "research": {
+    "parent": "1a-g-cryofluid-mixer-ii",
+    "objectives": [
+      "desolateRift"
+    ]
+  },
+	"outputLiquids": [
+    "cryofluid/1.3",
+    "antifreeze/1.2"
+  ],
+  "liquidOutputDirections": [1, 3]
+}

@@ -1,0 +1,67 @@
+{
+    "type": "ImpactReactor",
+    "size": 5,
+    "health":4000,
+    "hasPower": true,
+    "hasItems": true,
+
+    "explodeEffect": "impactReactorExplosion",
+    "explodeSound": "explosionbig",
+
+    "powerProduction": 500,
+    "itemCapacity": 30,
+    "liquidCapacity": 40,
+    "explosionRadius": 50,
+    "explosionDamage": 1000,
+    "itemDuration": 300,
+    "drawer": {
+      "type": "DrawMulti",
+      "drawers": [
+        {
+        "type": "drawRegion",
+        "suffix": "-bottom"    
+        },  
+        {
+        "type": "DrawPlasma"
+        },
+        {
+        "type": "DrawDefault"
+        },
+        {
+        "type": "DrawLiquidRegion",
+        "drawLiquid": "antifreeze"
+        }
+      ]
+    },
+    "consumes": {
+    "power": 150.0,
+    "items": [
+            "blast-compound/5",
+            "surge-alloy/5"
+        ],
+    "liquid": {
+        "liquid": "antifreeze",
+        "amount": 0.9
+    }
+    },
+    "category": "power",
+      "research": {
+    "parent": "impact-reactor",
+    "objectives": [
+      {
+        "type": "SectorComplete",
+        "preset": "planetaryTerminal"
+    },
+    "6a-g-thorium-reactor-iii"
+    ]
+  },
+    "requirements": [
+      "titanium/950",
+      "surge-alloy/950",
+      "silicon/950",
+      "plastanium/900",
+      "phase-fabric/800",
+      "metaglass/800"
+    ]  
+    }
+    

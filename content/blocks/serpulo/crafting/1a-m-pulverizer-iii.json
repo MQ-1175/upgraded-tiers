@@ -1,0 +1,58 @@
+{	
+"type": "GenericCrafter",
+"size": 3,
+"drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+  {
+    "type": "DrawDefault"
+  },
+  {
+    "type": "DrawRegion",
+    "suffix": "-rotator",
+    "rotateSpeed": -5,
+    "spinSprite": true
+  },
+  {
+    "type": "DrawLiquidRegion",
+    "drawLiquid": "water"
+  },
+  {
+    "type": "DrawRegion",
+    "suffix": "-top"
+  }
+               ]
+
+     },
+        "hasPower": true,
+        "hasLiquids":true,
+	"hasItems": true,
+	"itemCapacity": 30,
+        "liquidCapacity": 35,
+	"craftTime": 90,
+	"craftEffect": "pulverize",
+	"updateEffect": "pulverizeSmall",
+    "ambientSound": "grinding",
+    "ambientSoundVolume": 0.04,
+	"consumes": {
+		"power": 3.5,
+		"items": {
+			"items": [
+               "scrap/12"
+			]
+		},
+       "liquid": {
+			"liquid": "water",
+			"amount": 0.11
+		}
+	},
+	"requirements": [
+    "titanium/90",
+    "lead/85",
+    "silicon/70",
+    "plastanium/60"
+	],
+	"category": "crafting",
+	"research": "1a-m-pulverizer-ii",
+	"outputItem": "sand/15"
+}

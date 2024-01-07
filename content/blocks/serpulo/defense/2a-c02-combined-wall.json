@@ -1,0 +1,23 @@
+{
+    "type": "ShieldWall",
+    "flashHit": true,
+    "size": 4,
+    "health": 16000,
+    "shieldHealth":4000,
+    "conductivePower":true,
+    "chanceDeflect": 18,
+    "lightningChance": 0.06,
+    "lightningDamage": 40,
+    "category": "defense",
+    "envDisabled": 16,
+    "consumes": {
+        "power": 6
+    },
+    "consumesPower" :true,
+    "research": "2a-c01-combined-wall",
+    "requirements": [
+        "surge-alloy/150",
+        "phase-fabric/130",
+        "silicon/140"
+	]
+  }

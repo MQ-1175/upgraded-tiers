@@ -1,0 +1,49 @@
+{	
+"type": "AttributeCrafter",
+"boostScale": 0.1,
+"size": 4,
+"drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+   {
+    "type": "DrawDefault"
+   },
+   {
+    "type": "DrawFlame",
+    "flameRadius": 4,         
+    "flameRadiusIn": 2.5,
+    "flameRadiusScl": 4,  
+    "flameRadiusMag": 2,    
+    "flameRadiusInMag": 1.5
+   }
+               ]
+          },
+        "hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 40,
+	"craftTime": 240,
+	"craftEffect": "smeltsmoke",
+	"updateEffect": "none",
+	"consumes": {
+		"power": 8,
+		"items": {
+			"items": [
+               "silicon/6",
+               "titanium/7",
+               "graphite/8",
+               "lead/8",
+               "pyratite/2"  
+			]
+		}
+	},
+	"requirements": [
+     "silicon/175",
+    "titanium/180",
+    "lead/150",
+    "thorium/150",
+    "surge-alloy/70"
+	],
+	"category": "crafting",
+	"research": "surge-smelter",
+	"outputItem": "surge-alloy/8"
+}

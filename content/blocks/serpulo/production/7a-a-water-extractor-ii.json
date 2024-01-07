@@ -1,0 +1,19 @@
+{	
+  "type": "SolidPump",
+  "size": 3,
+    "liquidCapacity":50,
+    "rotateSpeed": 1.8,
+    "pumpAmount": 0.5,
+    "consumes": {"power": 2.5},
+	"outputsLiquid": true,
+    "attribute":"water",
+	"requirements": [
+        "lead/90",
+        "titanium/70",
+        "silicon/85",
+        "metaglass/80",
+        "thorium/70"
+	],
+	"category": "production",
+	"research": "water-extractor"
+}

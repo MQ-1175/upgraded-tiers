@@ -1,0 +1,52 @@
+{	
+"type": "GenericCrafter",
+"size": 3,
+"drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+  {
+    "type": "DrawDefault"
+  },
+  {
+    "type": "DrawRegion",
+    "suffix": "-spinner",
+    "rotateSpeed": 2,
+    "spinSprite": true
+  },
+  {
+    "type": "DrawRegion",
+    "suffix": "-top"
+  }
+               ]
+
+     },
+	"hasPower": true,
+	"hasItems": true,
+     "liquidCapacity": 15,
+	"itemCapacity": 20,
+	"craftTime": 90,
+	"consumes": {
+		"power": 1.5,
+		"items": {
+			"items": [
+                "sand/6",
+                "lead/6",
+                "coal/4"            
+ 			]
+	  },
+      "liquid": {
+        "liquid": "oil",
+        "amount": 0.1
+    }
+                }
+	 ,
+	"requirements": [
+        "lead/100",
+        "titanium/75",
+        "silicon/90",
+        "metaglass/80"
+	],
+	"category": "crafting",
+	"research": "pyratite-mixer",
+	"outputItem": "pyratite/5"
+}

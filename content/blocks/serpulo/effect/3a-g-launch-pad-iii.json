@@ -1,0 +1,30 @@
+{
+    "type": "LaunchPad",
+    "health": 2000,
+    "size": 5,
+    "launchTime": 1500,
+    "itemCapacity": 700,
+    "category": "effect",
+    "buildVisibility":"campaignOnly",
+    "consumes": {
+        "power": 35,
+        "liquids": [
+          "cryofluid/0.5",
+          "oil/0.8"
+        ]
+      }, 
+    "research": {
+    "parent": "3a-g-launch-pad-ii",
+    "objectives": [
+    "core-nucleus"
+    ]
+  },
+  "requirements": [
+    "titanium/1600",
+    "copper/1800",
+    "thorium/1500",
+    "silicon/1600",
+    "surge-alloy/1200",
+    "phase-fabric/1000"
+]
+}

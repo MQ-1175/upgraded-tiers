@@ -1,0 +1,60 @@
+{
+    "type": "AttributeCrafter",
+    "health": 590,
+    "outputLiquid": "oil/0.6",
+    "baseEfficiency": 0,
+    "drawer": {
+      "type": "DrawMulti",
+      "drawers": [
+      {
+      "type": "DrawDefault"   
+      },
+      {
+      "type": "DrawLiquidRegion",
+      "drawLiquid": "oil"
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-rotator",
+        "rotateSpeed": 4,
+        "spinSprite": true
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-top"
+      }
+                 ]
+  
+  },
+    "size": 4,
+    "requirements": [
+      "silicon/175",
+      "titanium/180",
+      "lead/150",
+      "thorium/150",
+      "plastanium/100"
+    ],
+    "hasPower": true,
+    "craftTime":60,
+    "hasLiquids": true,
+    "minEfficiency": 0.1,
+    "hasItems": true,
+    "itemCapacity": 15,
+    "liquidCapacity": 50,
+    "attribute": "oil",
+    "boostScale": 0.05,
+    "consumes": {
+      "power": 6,
+      "items": {
+        "items": [
+          {"item": "sand", "amount": 3}
+        ]
+      },
+      "liquid": {
+        "liquid": "water",
+        "amount": 0.4
+      }
+    },
+    "category": "production",
+    "research": "oil-extractor"
+  }

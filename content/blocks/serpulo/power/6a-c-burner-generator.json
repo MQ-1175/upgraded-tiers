@@ -1,0 +1,46 @@
+{
+"type": "ConsumeGenerator",
+"size": 4,
+"hasPower": true,
+"hasItems": true,
+"powerProduction": 50,
+"ambientSound": "steam",
+"itemCapacity": 35,
+"generateEffect":"generatespark",
+"itemDuration": 30,
+"drawer": {
+  "type": "DrawMulti",
+  "drawers": [
+    {
+      "type": "drawRegion",
+      "suffix": "-bottom"    
+      },  
+   {
+      "type": "DrawLiquidTile",
+      "drawLiquid": "cryofluid"
+    },
+    {
+      "type": "DrawDefault"
+    },
+    {
+      "type": "DrawWarmupRegion"
+    }
+  ]
+},
+"consumes": {
+  "itemFlammable": {},
+  "liquid": {
+    "liquid": "cryofluid",
+    "amount": 0.4
+}
+},
+"category": "power",
+"research": "differential-generator",
+"requirements": [
+  "thorium/200",
+  "titanium/220",
+  "surge-alloy/150",
+  "silicon/200",
+  "plastanium/180"
+]
+}

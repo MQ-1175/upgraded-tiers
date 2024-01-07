@@ -1,0 +1,16 @@
+{
+    "type": "PowerNode",
+    "size": 3,
+    "health": 500,
+    "laserRange": 75,
+    "maxNodes": 3,
+    "hasPower": true,
+    "category": "power",
+    "requirements": [
+        "silicon/150",
+        "titanium/120",
+        "surge-alloy/80",
+        "plastanium/100"
+    ],
+    "research": "surge-tower"
+  }

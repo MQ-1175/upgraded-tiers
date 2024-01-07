@@ -1,0 +1,19 @@
+{
+    "type": "ThermalGenerator",
+    "size": 3,
+    "powerProduction": 2.5,
+    "generateEffect": "redgeneratespark",
+    "floating": true,
+    "boostScale": 0.15,
+    "maxBoost": 1.5,
+    "ambientSound": "hum",
+    "ambientSoundVolume": 0.4,
+    "requirements": [
+      "lead/200",
+      "silicon/250",
+      "thorium/175",
+      "plastanium/100"
+    ],
+    "category": "power",
+    "research": "thermal-generator"
+}

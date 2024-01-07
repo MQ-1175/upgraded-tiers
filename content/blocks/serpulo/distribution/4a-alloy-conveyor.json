@@ -1,0 +1,20 @@
+{
+    "type": "StackConveyor",
+    "loadEffect":"conveyorPoof",
+    "unloadEffect":"conveyorPoof",
+    "health": 200,
+    "speed": 0.1,
+    "itemCapacity": 30,
+    "requirements": [
+      "surge-alloy/2",
+      "silicon/2",
+      "plastanium/2"
+    ],
+    "research": {
+      "parent": "plastanium-conveyor",
+      "objectives": [
+        "desolateRift"
+      ]
+    },
+    "category": "distribution"
+  }

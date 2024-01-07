@@ -1,0 +1,62 @@
+{
+    "type": "ConsumeGenerator",
+    "size": 4,
+    "hasPower": true,
+    "powerProduction": 18,
+    "ambientSound": "steam",
+    "generateEffect":{
+      "type": "RadialEffect",
+      "amount": 20,
+      "rotationSpacing": 45,
+      "effect": {
+        "particles": 1,
+        "length": 80,
+        "lifetime": 440,
+        "cone": 11,
+        "baseRotation": 35,
+        "useRotation": false,
+        "sizeFrom": 0,
+        "sizeTo": 14,
+        "colorFrom": 787878,
+        "colorTo": 78787800,
+        "sizeInterp": "pow2Out",
+        "interp": "pow2Out"
+      }
+    },
+    "drawer": {
+      "type": "DrawMulti",
+      "drawers": [
+        {
+          "type": "drawRegion",
+          "suffix": "-bottom"    
+          },  
+       {
+          "type": "DrawLiquidTile",
+          "drawLiquid": "oil"
+        },
+        {
+          "type": "DrawDefault"
+        }
+      ]
+    },
+    "consumes": {
+      "liquid": {
+        "liquid": "oil",
+        "amount": 0.9
+    }
+    },
+    "category": "power",
+    "research": {
+        "parent": "6a-i-oil-combustion-generator-ii",
+        "objectives": [
+          "6a-c-burner-generator"
+        ]
+      },
+    "requirements": [
+        "surge-alloy/180",
+        "thorium/190",
+		"silicon/200",
+		"plastanium/150",
+        "metaglass/175"
+    ]
+    }

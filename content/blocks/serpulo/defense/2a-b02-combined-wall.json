@@ -1,0 +1,23 @@
+{
+    "type": "mendProjector",
+    "health": 13000,
+    "size": 4,
+    "buildCostMultiplier": 0.15,
+    "absorbLasers":true,
+    "reload": 160,
+    "range": 24,
+    "phaseBoost": 0,
+    "phaseRangeBoost": 0,
+    "conductivePower":true,
+    "consumes": {
+    "power": 1
+                },
+    "healPercent": 5,
+    "requirements": [
+        "thorium/90",
+        "plastanium/96",
+        "metaglass/90"
+    ],
+    "category": "defense",
+    "research": "2a-b01-combined-wall"
+    }

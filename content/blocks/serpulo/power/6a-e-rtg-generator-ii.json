@@ -1,0 +1,41 @@
+{
+    "type": "ConsumeGenerator",
+    "size": 3,
+    "powerProduction": 11,
+    "drawer": {
+    "type": "DrawMulti",
+        "drawers": [
+          {
+            "type": "DrawDefault"
+          },
+          {
+            "type": "DrawWarmupRegion"
+          }
+        ]
+    },
+    "hasItems": true,
+    "itemCapacity": 30,
+    "itemDuration": 400,
+    "consumes": {
+      "itemRadioactive": {}
+    },
+    "minItemEfficiency": 0.1,
+        "requirements": [
+          "lead/250",
+          "silicon/275",
+          "plastanium/200",
+          "thorium/180",
+          "surge-alloy/155"
+    ],
+    "category": "power",
+    "research": {
+      "parent": "rtg-generator",
+      "objectives": [
+        "thorium-reactor"
+      ]
+    },
+    "loopSound": "hum",
+    "ambientSound": "machine",
+    "loopSoundVolume": 0.5,
+    "ambientSoundVolume": 0.25
+}

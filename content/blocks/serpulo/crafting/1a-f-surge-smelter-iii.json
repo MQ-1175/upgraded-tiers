@@ -1,0 +1,61 @@
+{	
+"type": "AttributeCrafter",
+"boostScale": 0.1,
+"size": 5,
+"drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+   {
+   "type": "DrawDefault"
+   },
+   {
+    "type": "DrawFlame",
+    "flameRadius": 6,         
+    "flameRadiusIn": 3.5,
+    "flameRadiusScl": 4.5,  
+    "flameRadiusMag": 2.5,    
+    "flameRadiusInMag": 1.7
+   }
+               ]
+          },
+        "hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 50,
+        "liquidCapacity": 40,
+	"craftTime": 150,
+	"craftEffect": "smeltsmoke",
+	"updateEffect": "none",
+	"consumes": {
+		"power": 15,
+		"items": {
+			"items": [
+               "silicon/14",
+               "titanium/14",
+               "thorium/16",
+               "graphite/16",
+               "blast-compound/5"  
+			]
+		},
+       "liquid": {
+			"liquid": "cryofluid",
+			"amount": 0.25
+		}
+	},
+	"requirements": [
+    "lead/300",  
+    "silicon/350",
+    "titanium/350",
+    "plastanium/250",
+    "thorium/250",
+    "phase-fabric/175",
+    "surge-alloy/150"
+	],
+	"category": "crafting",
+    "research": {
+        "parent": "1a-f-surge-smelter-ii",
+        "objectives": [
+          "desolateRift"
+        ]
+      },
+	"outputItem": "surge-alloy/18"
+}

@@ -1,0 +1,49 @@
+{
+    "type": "ForceProjector",
+    "health": 1800,
+    "shieldHealth": 1900,
+    "size": 5,
+    "sides":12,
+    "liquidCapacity": 40,
+    "shieldRotation":45,
+    "itemCapacity": 30,
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquid": true,
+    "canOverdrive": true,
+    "phaseUseTime": 420,
+    "solid": true,
+    "radius": 400,
+    "cooldownNormal": 3.5,
+    "cooldownLiquid": 2,
+    "cooldownBrokenBase": 1.75,
+    "consumes": {
+      "power": 25,
+      "items": {
+        "items": [
+          "phase-fabric/4",
+          "surge-alloy/4",
+          "silicon/4"
+        ],
+        "optional": false
+      }
+    },
+    "requirements": [
+      "thorium/650",
+      "titanium/850",
+      "silicon/900",
+      "plastanium/750",
+      "phase-fabric/800",
+      "surge-alloy/700"
+    ],
+    "category": "effect",
+    "research": {
+        "parent": "3a-c-force-projector-ii",
+        "objectives": [
+          {
+            "type": "SectorComplete",
+            "preset": "planetaryTerminal"
+        }
+        ]
+      }
+  }

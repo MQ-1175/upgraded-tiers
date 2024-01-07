@@ -1,0 +1,14 @@
+{
+	"type": "SolarGenerator",
+	"size": 2,
+	"hasPower": true,
+	"powerProduction": 0.5,
+	"requirements": [
+		"lead/30",
+		"silicon/40",
+		"titanium/20"
+	],
+	"category": "power",
+	"research": "solar-panel"
+    
+}

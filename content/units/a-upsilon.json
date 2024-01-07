@@ -1,0 +1,86 @@
+{
+"flying": true,
+"mineSpeed": 10,
+"defaultController": "BuilderAI",
+"mineTier":4,
+"speed": 4.05,
+"accel": 0.125,
+"lowAltitude": true,
+"drag": 0.0625,
+"itemCapacity": 120,
+"health": 400,
+"fogRadius":0,
+"rotateSpeed": 21,
+"armor": 1,
+"buildSpeed": 1.25,
+"engineOffset":10,
+"engineSize:": 6,
+"hitsize":18,
+"weapons": [
+    {
+        "name": "a-upsilon-weapon1",
+        "reload": 35,
+        "mirror": true,
+        "rotate":true,
+        "x": -7.25,
+        "y": 2,
+        "top": true,
+        "shoot": {
+            "type": "shootPattern",
+            "shots": 3,
+            "shotDelay": 2
+          },
+		"shootY": 2,
+        "ejectEffect": "casing3",
+        "bullet": {
+            "type": "BasicBulletType",
+            "homingPower": 0.1,
+            "damage": 10,
+            "speed": 4,
+            "width": 8,
+            "height": 13,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+            "buildingDamageMultiplier": 0.01,
+            "lifetime": 75
+        }
+    },
+    {
+        "name": "a-upsilon-weapon2",
+        "reload": 40,
+        "top": true,
+        "mirror": false,
+        "inaccuracy": 4,
+        "x":0,
+        "y":-1.9,
+        "shoot": {
+            "type": "shootPattern",
+            "shots": 3,
+            "shotDelay": 4
+          },
+		"shootY": 3,
+        "ejectEffect": "none",
+        "shootSound": "missile",
+        "bullet": {
+            "type": "MissileBulletType",
+            "homingPower": 0.1,
+            "homingRange":60,
+            "weaveScale": 6,
+            "weaveMag": 1.1,
+            "damage": 16,
+            "speed": 3,
+            "width": 8,
+            "height": 8,
+            "lifetime": 60,
+            "frontColor": "fff8e8",
+			"backColor": "f9c27a",
+			"trailColor": "ffb855",
+			"hitEffect": "blastExplosion",
+			"despawnEffect": "blastExplosion",
+            "buildingDamageMultiplier": 0.01,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootSmallSmoke"
+        }
+    }
+]
+}

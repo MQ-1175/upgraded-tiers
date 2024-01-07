@@ -1,0 +1,25 @@
+{	
+  "type": "MassDriver",
+  "size": 5, 
+  "itemCapacity": 600,
+  "range": 1300,
+  "reload": 650,
+  "bulletLifetime": 500,
+  "bulletSpeed": 10,
+  "hasPower":true,
+  "consumes": {"power": 11,
+  "liquid": {
+    "liquid": "cryofluid",
+    "amount": 0.5
+  }
+},
+  "requirements": [
+        "plastanium/380",
+        "surge-alloy/300",
+        "silicon/475",
+        "phase-fabric/300",
+        "thorium/450"
+	],
+	"category": "distribution",
+	"research": "4a-mass-driver-ii"
+}

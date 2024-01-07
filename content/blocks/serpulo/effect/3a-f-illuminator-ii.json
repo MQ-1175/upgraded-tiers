@@ -1,0 +1,15 @@
+{
+    "type":"LightBlock",
+    "size":2,
+    "brightness": 0.8,
+    "radius": 200,
+    "buildVisibility":"lightingOnly",
+    "consumes": {"power": 0.15},
+    "research":"illuminator",
+    "category": "effect",
+    "requirements": [
+        "graphite/30",
+        "silicon/20",
+        "titanium/20"
+      ]
+}
